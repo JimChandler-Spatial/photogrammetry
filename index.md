@@ -1,6 +1,6 @@
 ## Welcome to Jim's WebPages
 
-Prof. J.H. Chandler, BSc [PhD](../OtherFiles/JC_thesis_col.pdf) FRICS SFHEA, 
+Prof. J.H. Chandler, BSc [PhD](../../OtherFiles/JC_thesis_col.pdf) FRICS SFHEA, 
 Former Professor of Geomatics, Loughborough University, UK.	
  	 
 Primary aim of my research was to develop and exploit modern geomatics methods and digital photogrammetry, particularly in the earth sciences and heritage recording and at close range.
