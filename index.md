@@ -1,9 +1,9 @@
 ## Welcome to Jim's WebPages
 
-Prof. J.H. Chandler, BSc PhD FRICS SFHEA
+Prof. J.H. Chandler, BSc PhD FRICS SFHEA, 
 Former Professor of Geomatics, Loughborough University, UK.	
  	 
-Primary aim of research was to develop and exploit modern geomatics methods and digital photogrammetry, with experience in earth science and heritage recording, particularly at close range.
+Primary aim of my research was to develop and exploit modern geomatics methods and digital photogrammetry, particularly in the earth sciences and heritage recording and at close range.
 	
 Capturing river channel change in the Canadian Rockies	Capturing aboriginal rock art
 I
