@@ -1,5 +1,16 @@
 ## Welcome to Jim's WebPages
 
+Prof. J.H. Chandler, BSc PhD FRICS SFHEA
+Former Professor of Geomatics, Loughborough University, UK.	
+ 	 
+Primary aim of research was to develop and exploit modern geomatics methods and digital photogrammetry, with experience in earth science and heritage recording, particularly at close range.
+	
+Capturing river channel change in the Canadian Rockies	Capturing aboriginal rock art
+I
+
+
+
+
 You can use the [editor on GitHub](https://github.com/JimChandler-Spatial/photgrammetry/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
