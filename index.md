@@ -6,9 +6,8 @@ Former Professor of Geomatics, Loughborough University, UK.
 Primary aim of my research was to develop and exploit modern geomatics methods and digital photogrammetry, particularly in the earth sciences and heritage recording and at close range.
 	
 
-|![Capturing river channel change in the Canadian Rockies](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/Images/jim_Sunwapta.JPG)
-
-|![Capturing aboriginal rock art](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/Images/emu_cave_web_jc.jpg]
+|![Capturing river channel change in the Canadian Rockies](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/Images/jim_Sunwapta.JPG)|
+![Capturing aboriginal rock art](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/Images/emu_cave_web_jc.jpg]|
 
 
 
