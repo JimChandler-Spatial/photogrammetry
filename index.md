@@ -10,7 +10,7 @@ Primary aim of my research was to develop and exploit modern geomatics methods a
 |![Capturing river channel change in the Canadian Rockies](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/Images/jim_Sunwapta.JPG)|
 |![Capturing aboriginal rock art](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/Images/emu_cave.jpg)|
 
-## Various Projects
+### Various Projects
 1. The Black Ven landlslide
 2. Change detection
 
