@@ -11,7 +11,7 @@ Primary aim of my research was to develop and exploit modern geomatics methods a
 |![Capturing aboriginal rock art](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/Images/emu_cave.jpg)|
 
 ### Various Projects
-1. The [Black Ven](https://cdn.rawgit.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/CHCC/index.htm) landslide
+1. The [Black Ven](https://htmlpreview.github.io/?https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/CHCC/index.htm) landslide
 2. Change detection
 
 4. The [Black Ven](https://rawgit.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/CHCC/index.htm)
