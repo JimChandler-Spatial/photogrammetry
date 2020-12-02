@@ -3,6 +3,7 @@
 Prof. J.H. Chandler, BSc [PhD](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/JC_thesis_col.pdf) FRICS SFHEA, 
 Former Professor of Geomatics, Loughborough University, UK.  
 (Email: JimChandler.Spatial@virginmedia.com)
+**Orcid Id:** https://orcid.org/0000-0003-3588-0223 or [Orcid Code:](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/Images/ORCID.png)
  	 
 Primary aim of my research was to develop and exploit modern geomatics methods and digital photogrammetry, particularly in the earth sciences and heritage recording and at close range.
 	
@@ -20,8 +21,7 @@ Primary aim of my research was to develop and exploit modern geomatics methods a
 2. List
 
 **Bold** and _Italic_ and `Code` text
-Orcid Id: https://orcid.org/0000-0003-3588-0223
-[Orcid Id:](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/Images/ORCID.png)
+
 
 [Link](url) and ![Image](src)
 ```
