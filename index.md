@@ -16,13 +16,8 @@ Primary aim of my research was to develop and exploit modern geomatics methods a
 
 ### Various Projects
 1. The [Black Ven](https://htmlpreview.github.io/?https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/CHCC/index.htm) landslide
-2. [Rock art and heritage recording]
-Change detection
-
-4. The [Black Ven](https://rawgit.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/CHCC/index.htm)
-
-1. Numbered
-2. List
+2. [Rock art and heritage recording](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/RockArt/index.html)
+3. Change detection
 
 **Bold** and _Italic_ and `Code` text
 
@@ -31,11 +26,3 @@ Change detection
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JimChandler-Spatial/photgrammetry/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
