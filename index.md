@@ -3,7 +3,8 @@
 Prof. J.H. Chandler, BSc [PhD](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/JC_thesis_col.pdf) FRICS SFHEA, 
 Former Professor of Geomatics, Loughborough University, UK.  
 (Email: JimChandler.Spatial@virginmedia.com)
-**Orcid Id:** https://orcid.org/0000-0003-3588-0223 or [Orcid Code:](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/Images/ORCID.png)
+
+[**Orcid Id:**](https://orcid.org/0000-0003-3588-0223)
 
 [Jim's Web of Science:](https://publons.com/researcher/2894258/jim-h-chandler/?utm_campaign=researcher_id_badge)
  	 
