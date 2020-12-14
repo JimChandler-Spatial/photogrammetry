@@ -9,8 +9,8 @@ Primary aim of my research was to develop and exploit modern geomatics methods a
 **Research Repositories:**
 
 [**Web of Science**](https://publons.com/researcher/2894258/jim-h-chandler/?utm_campaign=researcher_id_badge) 
-    [**Google Scholar**](https://scholar.google.com/citations?user=gHx7FYMAAAAJ)
-    [**Orcid**](https://orcid.org/0000-0003-3588-0223)
+|[**Google Scholar**](https://scholar.google.com/citations?user=gHx7FYMAAAAJ)
+|[**Orcid**](https://orcid.org/0000-0003-3588-0223)|
 
 |![Capturing river channel change in the Canadian Rockies](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/Images/jim_Sunwapta.JPG)|
 |![Capturing aboriginal rock art](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/Images/emu_cave.jpg)|
