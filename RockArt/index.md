@@ -5,6 +5,6 @@ The project was funded by The British Academy and the Association of Commonwealt
 
 In 2005, Chandler’s rock art recording techniques were applied in the UK on the [Northumberland and Durham Rock Art Recording Project](https://archaeologydataservice.ac.uk/era/section/record_manage/rm_projects_nadrap_home.jsf), through a collaboration with English Heritage. Seven Nikon Coolpix 5400 cameras were acquired in calibrated at Loughborough and volunteers systematically acquired data representing 2000 Neolithic rock-art motifs in the northeast of England. 
 
-More recently, some of the original imagery has been reprocessed and the 3-D models have been made more widely available via the 3D viewing portal and repository [SketchFab](https://sketchfab.com/cvjhc/collections/aboriginal-rock-art)
+More recently, some of the original imagery has been reprocessed and the 3-D models have been made more widely available via the 3D viewing portal and repository [SketchFab](https://sketchfab.com/cvjhc/collections/aboriginal-rock-art).
 
 Other projects have involved more general heritage recording using combined terrestrial and quadcopter imagery and Structure from Motion (SfM) photogrammetry. Again, a range of examples are available via [SketchFab](https://sketchfab.com/cvjhc).
