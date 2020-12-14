@@ -16,7 +16,7 @@ Primary aim of my research was to develop and exploit modern geomatics methods a
 
 ### Various Projects
 1. The [Black Ven](https://htmlpreview.github.io/?https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/CHCC/index.htm) landslide
-2. [Rock art and heritage recording](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/RockArt/index.html)
+2. [Rock art and heritage recording](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/RockArt/index.md)
 3. Change detection
 
 **Bold** and _Italic_ and `Code` text
