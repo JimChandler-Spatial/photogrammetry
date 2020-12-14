@@ -7,4 +7,4 @@ In 2005, Chandler’s rock art recording techniques were applied in the UK on th
 
 More recently, some of the original imagery has been reprocessed and the 3-D models have been made more widely available via the 3D viewing portal and repository [SketchFab](https://sketchfab.com/cvjhc/collections/aboriginal-rock-art)
 
-Other projects have involved more general heritage recording using combined terrestrial and quadcopter imagery and Structure from Motion (SfM) photogrammetry. Again, examplkes are available via sketchfab.
+Other projects have involved more general heritage recording using combined terrestrial and quadcopter imagery and Structure from Motion (SfM) photogrammetry. Again, a range of examples are available via [SketchFab](https://sketchfab.com/cvjhc).
