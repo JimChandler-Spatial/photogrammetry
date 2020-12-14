@@ -1,5 +1,6 @@
 **Rock-art and Heritage recording**
-In 2005, Jim spent 6 months on study leave at the University of Newcastle, Australia. He was working in conjunction with Prof. John Fryer to develop the use of cheap digital cameras to record aboriginal rock art, both [pictographs](https://www.youtube.com/watch?v=hyCmrG3YShI) and petroglyphs. ![petroglyphs](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/Images/baime_jc.jpg). 
+In 2005, Jim spent 6 months on study leave at the University of Newcastle, Australia. He was working in conjunction with Prof. John Fryer to develop the use of cheap digital cameras to record aboriginal rock art, both [pictographs](https://www.youtube.com/watch?v=hyCmrG3YShI) and petroglyphs. 
+|![petroglyphs](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/Images/baime_jc.jpg). |
 
 The project was funded by The British Academy and the Association of Commonwealth Universities. The Australian work has been published fully at a [CIPA Congress](https://www.researchgate.net/profile/John_Fryer2/publication/28576608_Recording_aboriginal_rock_art_using_cheap_digital_cameras_and_digital_photogrammetry/links/0deec52cf2144cd7a3000000/Recording-aboriginal-rock-art-using-cheap-digital-cameras-and-digital-photogrammetry.pdf), in Rock Art Research and the [Photogrammetric Record](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1477-9730.2007.00414.x).
 
