@@ -1,4 +1,4 @@
-## Welcome to Jim's WebPages
+## Welcome to Jim Chandler's Photogrammetry WebPages
 
 Prof. J.H. Chandler, BSc [PhD](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/JC_thesis_col.pdf) FRICS SFHEA,
 Former Professor of Geomatics, Loughborough University, UK.  
