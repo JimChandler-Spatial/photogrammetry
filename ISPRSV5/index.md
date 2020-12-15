@@ -4,6 +4,6 @@ One of the successful outputs from working group V6 was to develop and make free
 
 1. ![Close range digital photogrammetry](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/photogrammetry-tips.pdf) (updated, September 2010);
 
-2. Terrestrial laser scanners.
+2. ![Terrestrial laser scanners](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/laser_scanning-tips.odt).
 
-Please feel free to add your suggestions/feedback and send to: Jim Chandler (JimChandler.Spatial@virginmedia.com)
+Please feel free to add your suggestions/feedback and send to: Jim Chandler (!JimChandler.Spatial@virginmedia.com)
