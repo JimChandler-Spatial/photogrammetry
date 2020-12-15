@@ -2,7 +2,7 @@
 
 One of the successful outputs from working group V6 was to develop and make freely available ‘best-practice’ guidelines for non-expert users of:
 
-1. Close range digital photogrammetry (updated, September 2010);
+1. ![Close range digital photogrammetry](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/photogrammetry-tips.pdf) (updated, September 2010);
 
 2. Terrestrial laser scanners.
 
