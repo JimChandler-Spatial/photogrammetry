@@ -4,7 +4,7 @@ Prof. J.H. Chandler, BSc [PhD](https://github.com/JimChandler-Spatial/photogramm
 Former Professor of Geomatics, Loughborough University, UK.  
 (Email: JimChandler.Spatial@virginmedia.com)
 
-Primary aim of my research was to develop and exploit modern geomatics methods and digital photogrammetry, particularly in the earth sciences and heritage recording and at close range.
+Primary aim of my research was to develop and exploit modern geomatics methods and digital photogrammetry, particularly in the earth sciences and heritage recording and using close range and oblique aerial/quadcopter imagery.
 
 **Research Repositories:**
 [**Web of Science**](https://publons.com/researcher/2894258/jim-h-chandler/?utm_campaign=researcher_id_badge)
