@@ -7,8 +7,8 @@ One of the successful outputs from working group V6 was to develop and make free
 2. ![Terrestrial laser scanners](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/laser_scanning-tips.pdf).
 
 Note that the original Working Group websites currently remain accessible courtesy of my former employer: 
-![**ISPRS V6**](http://isprsv6.lboro.ac.uk/) and 
-![**ISPRS V5**](http://isprsv5.lboro.ac.uk/).
+[**ISPRS V6**](http://isprsv6.lboro.ac.uk/) and 
+[**ISPRS V5**](http://isprsv5.lboro.ac.uk/).
 
 Please feel free to add your suggestions/feedback and send to: Jim Chandler (JimChandler.Spatial@virginmedia.com)
 
