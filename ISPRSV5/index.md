@@ -1,4 +1,6 @@
 **ISPRS Working group V6 (2008-12) and V5 (2012-16) and Tips for effective use of digital close range photogrammetry and terrestrial laser scanning**
+
+
 ![](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/Images/dems1.gif)
 One of the successful outputs from working group V6 was to develop and make freely available ‘best-practice’ guidelines for non-expert users of:
 
