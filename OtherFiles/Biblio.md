@@ -1,10 +1,11 @@
-Appreciations
+**Appreciations**
+
 Lane, S., Buckley, S., Mills, J., Rieke‐Zapp, D., Wackrow, R. and Granshaw, S. (2019). Professor Jim Chandler. Photogram Rec, 34: 467-480. https://doi.org/10.1111/phor.12302
 
 Fawcett D, Blanco-Sacristán J, Benaud P. (2019). Two decades of digital photogrammetry: Revisiting Chandler’s 1999 paper on “Effective application of automated digital photogrammetry for geomorphological research” – a synthesis. Progress in Physical Geography: Earth and Environment, 43(2):299-312. https://10.1177/0309133319832863
 
 
-Journal Papers
+**Journal Papers**
 Parente, L., Chandler, J.H. and Dixon, N. (2021). Automated Registration of SfM‐MVS Multitemporal Datasets Using Terrestrial and Oblique Aerial Images. Photogrammetric Record. https://doi.org/10.1111/phor.12346
 
 Sanz‐Ablanedo, E., Chandler, J. H., Ballesteros‐Pérez, P., and Rodríguez‐Pérez, J. R. (2020). Reducing systematic dome errors in digital elevation models through better UAV flight design. Earth Surf. Process. Landforms, 45: 2134– 2147. https://doi.org/10.1002/esp.4871.
