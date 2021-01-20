@@ -38,6 +38,7 @@ Micheletti, N, Chandler, JH, Lane, S (2015) Structure from motion (SFM) photogra
 Sieberth, T, Wackrow, R, Chandler, JH (2014) Motion Blur Disturbs - The Influence Of Motion-Blurred Images In Photogrammetry,Photogrammetric Record, 29(148),:434-453, ISSN: 0031-868X. DOI:10.1111/phor.12082.
 
 Harrison, M and Chandler, JH (2014) www.surveyplot.co.uk- a free web-based application for displaying survey data, Geomatics World, 22(6):29-30, ISSN: 1567-5882.
+
 Irvine-Fynn, TDL, Sanz-Ablanedo, E, Rutter, N, Smith, MW, Chandler, JH (2014). Measuring glacier surface roughness using plot-scale, close-range digital photogrammetry, Journal of Glaciology, 60(223):957-969, ISSN: 0022-1430. DOI: 10.3189/2014JoG14J032.
 
 Montreuil, A.‐L., Bullard, J.E., Chandler, J.H. and Millett, J. (2013). Decadal and seasonal development of embryo dunes on an accreting macrotidal beach: North Lincolnshire, UK. Earth Surf. Process. Landforms, 38: 1851-1868. https://doi.org/10.1002/esp.3432
@@ -53,11 +54,13 @@ Kirchhöfer, M.K., Chandler, J.H., Wackrow, R. and Bryan, P. (2012). Direct Exte
 Sanz‐Ablanedo, E., Chandler, J.H. and Wackrow, R. (2012). Parameterising Internal Camera Geometry with Focusing Distance. The Photogrammetric Record, 27: 210-226. https://doi.org/10.1111/j.1477-9730.2012.00677.x
 
 Gunawan and X. Sun and M. Sterling and K. Shiono and R. Tsubaki and P. Rameshwaran and D.W. Knight, J.H. Chandler, X. Tang and I. Fujita, (2012). The application of LS-PIV to a small irregular river for inbank and overbank flows, Flow Measurement and Instrumentation, 24: 1-12. https://www.sciencedirect.com/science/article/abs/pii/S095559861200012X
+
 Wackrow, R. and Chandler, J.H. (2011). Minimising systematic error surfaces in digital elevation models using oblique convergent imagery. The Photogrammetric Record, 26: 16-31. https://doi.org/10.1111/j.1477-9730.2011.00623.x
 
 Walstra, J., Chandler, J.H., Dixon, N. and Wackrow, R. (2011). Evaluation of the controls affecting the quality of spatial data derived from historical aerial photographs. Earth Surf. Process. Landforms, 36: 853-863. https://doi.org/10.1002/esp.2111
 
 Heng, B. C. P., Sander, G. C., Armstrong, A., Quinton, J. N., Chandler, J. H., and Scott, C. F. (2011). Modeling the dynamics of soil erosion and size‐selective sediment transport over nonuniform topography in flume‐scale experiments, Water Resources. Research., 47, W02513, https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2010WR009375
+
 Armstrong, A., Quinton, J.N., Heng, B.C.P. and Chandler, J.H. (2011), Variability of interrill erosion at low slopes. Earth Surf. Process. Landforms, 36: 97-106. https://doi.org/10.1002/esp.2024
 
 Xin Sun, Koji Shiono, Ponnambalam Rameshwaran & Jim H. Chandler (2010) Modelling vegetation effects in irregular meandering river, Journal of Hydraulic Research, 48:6, 775-783, DOI: 10.1080/00221686.2010.531101
@@ -67,11 +70,13 @@ Shiono, L., Spooner, J., Chan, T., Rameshwaren, P. and Chandler, J.H. (2010). Fl
 Peter Heng, B.C., Chandler, J.H. and Armstrong, A. (2010), Applying close range digital photogrammetry in soil erosion studies. The Photogrammetric Record, 25: 240-265. https://doi.org/10.1111/j.1477-9730.2010.00584.x
 
 Chandler, J. (2009), Historic Maps and Imagery For Modern Scientific Applications. The Photogrammetric Record, 24: 196-197. https://doi.org/10.1111/j.1477-9730.2009.00532.x
+
 K. Shiono, Tony L. Chan, Jake Spooner, P. Rameshwaran & J. H. Chandler (2009). The effect of floodplain roughness on flow structures, bedforms and sediment transport rates in meandering channels with overbank flows: Part I, Journal of Hydraulic Research, 47:1, 5-19, DOI: 10.3826/jhr.2009.2944-I
 
 Smith, M.J., Chandler, J. and Rose, J. (2009), High spatial resolution data acquisition for the geosciences: kite aerial photography. Earth Surf. Process. Landforms, 34: 155-161. https://doi.org/10.1002/esp.1702
 
 S. Shair, J. H. Chandler, V. J. GonzÁlez-Villela, R. M. Parkin and M. R. Jackson, (2008). The Use of Aerial Images and GPS for Mobile Robot Waypoint Navigation, IEEE/ASME Transactions on Mechatronics, 13(6): 692-699. doi: 10.1109/TMECH.2008.2005197.
+
 Hancock, G.R., Crawter, D., Fityus, S.G., Chandler, J. and Wells, T. (2008), The measurement and modelling of rill erosion at angle of repose slopes in mine spoil. Earth Surf. Process. Landforms, 33: 1006-1020. https://doi.org/10.1002/esp.1585.
 
 K. Shiono, J. Spooner, T. Chan, P. Rameshwaran & J. Chandler, (2008). Flow characteristics in meandering channels with non-mobile bed, Journal of Hydraulic Research, 46:1, 113-132, DOI: 10.1080/00221686.2008.9521848
@@ -106,37 +111,67 @@ Butler, JB, Lane, SN, Chandler, J.H. and Porfiri, E, (2002). Through-water close
 Adams, J.C. and Chandler, J.H., (2002). Evaluation of LIDAR and medium scale photogrammetry for detecting soft-cliff coastal change, Photogrammetric Record: 405-418, ISBN0031-868X.
 
 Butler, J.B., Lane, S.N. and Chandler, J.H., (2001). Automated extraction of grain-size data from gravel surfaces using digital image processing for hydraulic research, Journal of Hydraulic Research, 391:1-11.
+
 Butler, J.B., Lane, S.N. and Chandler, J.H., (2001). Characterization of the Structure of River-Bed gravels using two-dimensional fractal analysis, Mathematical Geology, 333: 301-330, ISBN 0882-8121.
+
 Robins, P.J., Austin, S.A., Chandler, J.H. and Jones, P., (2001). Flexural strain and crack width measurement of steel fibre reinforced concrete by optical grid and electrical gauge methods, Cement and Concrete Research, 31: 719-729, ISSN 008 8846/01.
+
 Gooch, M.J. and Chandler, J.H., (2001). Failure prediction in automatically generated digital elevation models, Computers and Geosciences, 27(8): 913-920, ISSN 0098 3004/01.
+
 Chandler, J.H., Shiono, K., Rameshwaren, P. and Lane, S.N., (2001). Measuring flume surfaces for hydraulics research using a Kodak DCS460, Photogrammetric Record, 17(97): 39-61, ISBN 0031 868X.
+
 Lane, S.N., Chandler, J.H. and Porfiri, K., 2001. ''Monitoring river channel and flume surfaces with digital photogrammetry'', Journal of Hydraulic Engineering, 127(10):871-877, ISBN0733-9429.
+
 Chandler, J.H., 2000. ''What is ISI and why is it important?'', Survey Review, 35(277): 505-508, ISSN 0039 6265.
+
 Chandler, J.H., 1999. ''Effective application of automated digital photogrammetry for geomorphological research'', Earth Surface Processes and Landforms, 24: 51-63, ISSN 01979337.
+
 Ahmad, A. and Chandler, J.H., 1999. ''Photogrammetric capabilities of the Kodak DC40, DCS420 and DCS460 Digital Cameras'', Photogrammetric Record, 16(94): 601-615, ISSN 0031-868X.
+
 Gooch, M.J., Chandler, J.H. and Stojic, M., 1999. ''Accuracy assessment of digital elevation models generated using the Erdas Imagine Orthomax digital photogrammetric system'', Photogrammetric Record, 16(93): 519-531, ISSN 0031 - 858 X.
+
 Stojic, M., Chandler, J.H., Ashmore, P. and Luce, J., 1998. ''The Assessment of Sediment Transport Rates by Automated Digital Photogrammetry'', Photogrammetric Engineering and Remote Sensing, 645: 387-395, ISSN 0099-1112.
+
 Butler, J.B., Lane, S.N. and Chandler, J.H.,1998. ''Assessment of DEM quality for characterizing surface roughness using digital close range photogrammetry'', Photogrammetric Record, 16(92): 271-291, ISBN 0031 868 X.
+
 Lane, S.N., Biron, P.M., Bradbrook, K.F., Butler, J.B., Chandler, J.H., Crowell, M.D., McLelland, S.J., Richards, K.S. and Roy, A.G., 1998. Integrated three-dimensional measurements of river channel topography and flow process using acoustic doppler velocimetry'', Earth Surface Processes and Landforms, 23: 1247-1267, ISBN 0197 9337.
+
 Pyle, C.J., Richards, K.S. and Chandler, J.H., 1997. ''Digital Photogrammetric Monitoring of River Bank Erosion'', Photogrammetric Record, 15(89): 753-763, ISSN 0031-868X.
 Chandler, J.H. and Padfield, C.J., 1996. ''Automated Digital Photogrammetry on a Shoestring'', Photogrammetric Record, 15(88): 545-559.
+
 Lane, S.N., Richards, K.S. and Chandler, J.H., 1996. ''Discharge and Sediment Supply Controls on Errosion and Deposition in a Dynamic Alluvial Channel'', Geomorphology, 15: 1-15, ISSN 0169-555X.
+
 Chandler, J.H., Littleworth, R.M. and Van Havere, W., 1995. ''3D Plant Models derived by by Analytical Photogrammetry and Their Use in the Preparation of Area Classification Drawings'', Transactions Institution of Chemical Engineers, 73(B): 290-298, ISSN 0957-5820.
+
 Lane, S.N., Richards, K.S. and Chandler, J.H., ''Morphological Estimation of The Time-Integrated Bed-Load Transport Rate'', Water Resources Research, 31(3), 1995, pp 761-772.
+
 Chandler, J.H. and Brunsden, D., 1995. ''Steady State Behaviour of the Black Ven Mudslide: The Application of Archical Analytical Photogrammetry to Studies of Landform Change'', Earth Surface Processes and Landforms, 20: 255-275, ISBN 0197-9337.
+
 Littleworth, R.M. and Chandler, J.H., 1995. ''3-D Computer Graphic Models by Analytical Photogrammetry'', Photogrammetric Record, 15(85): 65-76, ISBN 0031-868X.
+
 Richards, K., Arnold, N., Lane, S., Chandra, S., El-Hames, A., Mattikalli, N. and Chandler, J.H., 1995. ''Numerical Landscapes:  Static, Kinematic and Dynamic Process-Form Relationships'', Zeitschrift fur Geomorphologie, 101: 201-220, ISSN 0044-2798.
+
 Lane, S.N., Richards, K.S. and Chandler, J.H., 1994. ''Applications of Distributed Sensitivity Analysis to a Model of Turbulent Open Channel Flow in a Natural River Channel'', Proceedings of the Royal Society of London, pp 49-63, ISSN 0080-4630.
+
 Fryer, J.G., Chandler, J.H. and Cooper, M.A.R., 1994. ''On the Accuracy of Heighting from Aerial Photographs and Maps:  Implications to Process Modellers'', Earth Surface Processes and Landforms, 19: 577-583, ISSN 0197-9337.
+
 Lane, S.N., Chandler, J.H. and Richards, K.S., 1994. ''Developments in Monitoring and Modelling Small Scale River Bed Topography'', Earth Surface Processes and Landforms, 19: 349-368.
 Lane, S., Richards, K.S. and Chandler, J.H., 1993. ''Developments in photogrammetry; the geomorphological potential'', Progress in Physical Geography, 17(3): 306-328.
+
 Chandler, J.H.,1993. ''Height estimation using video security imagery'', Photogrammetric Record, 14(81): 459-468.
+
 Chandler, J.H. and Clark, J.S.,1992. ''The archival photogrammetric technique: further application and development'', Photogrammetric Record, 14(80) : 241-247.
+
 Chandler, J.H. and Cooper, M.A.R., 1991. ''Determining cylindrical parameters - an alternative approach'', Land and Hydrographic Survey, September 1991: 5-7.
+
 Chandler, J.H., Cooper, M.A.R. and Robson, S., 1990. Analytical aspects of small format surveys using oblique aerial surveys'', Journal of Photographic Science, 37: 235-240.
+
 Chandler, J.H. and Moore, R., 1989.''Analytical photogrammetry: a method for monitoring slope instability'', Quarterly Journal Engineering Geology, 22 : 97-110.
+
 Chandler, J.H. and Cooper, M.A.R.,1989. ''The extraction of positional data from historical photographs and their application in geomorphology'', Photogrammetric Record, 13(73): 69-78.
+
 Chandler, J.H. and Cooper, M.A.R., 1988. ''Monitoring the development of landslides using archival photography and analytical photogrammetry'', Land and Minerals Surveying, 6: 576-584.
+
 Chandler, J.H., Clark, J.S., Cooper, M.A.R. and Stirling, D., 1987. ''Analytical photogrammetry applied to Nepalese slope morphology'', Photogrammetric Record, 12(70): 443-458.
 
 
