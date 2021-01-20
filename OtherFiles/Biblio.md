@@ -14,13 +14,21 @@ Sanz‐Ablanedo, E., Chandler, J. H., Ballesteros‐Pérez, P., and Rodríguez�
 Parente, L., Chandler, J.H. and Dixon, N. (2019), Optimising the quality of an SfM‐MVS slope monitoring system using fixed cameras. Photogrammetric Record, 34: 408-427. https://doi.org/10.1111/phor.12288
 
 James, M. R., Chandler, J. H., Eltner, A., Fraser, C., Miller, P. E., Mills, J. P., Noble, T., Robson, S., and Lane, S. N. (2019) Guidelines on the use of structure‐from‐motion photogrammetry in geomorphic research. Earth Surf. Process. Landforms, 44: 2081– 2084. https://doi.org/10.1002/esp.4637.
+
 Bullard, J, Millett, J, Chandler, J, Montreuil, A, Ackerley, D (2019). Post-storm geomorphic recovery and resilience of a prograding coastal dune system, Environmental Research Communications, 1(1) , https://doi.org/10.1088/2515-7620/ab0258
+
 Sanz-Ablanedo, E, Chandler, JH, Rodríguez-Pérez, JR, Ordóñez, C. (2018). Accuracy of Unmanned Aerial Vehicle (UAV) and SfM photogrammetry survey as a function of the number and location of ground control points used, Remote Sensing, 10(10), DOI: 10.3390/rs10101606.
+
 Ferreira, E, Chandler, J, Wackrow, R, Shiono, K. (2017). Automated extraction of free surface topography using SfM-MVS photogrammetry, Flow Measurement and Instrumentation, ISSN: 0955-5986. DOI: 10.1016/j.flowmeasinst.2017.02.001.
+
 Sieberth, T., Wackrow, R. & Chandler, JH. (2016). Automatic detection of blurred images in UAV image sets. ISPRS Journal of Photogrammetry and Remote Sensing, 122:1–16. Available at: http://dx.doi.org/10.1016/j.isprsjprs.2016.09.010.
-Chandler, J.H., and Buckley, S. (2016). Structure from motion (SFM) photogrammetry vs terrestrial laser scanning, The Geoscience Handbook 2016, http://rock.geosociety.org/Store/detail.aspx?id=DATASHEETS .
+
+Chandler, J.H., and Buckley, S. (2016). Structure from motion (SFM) photogrammetry vs terrestrial laser scanning, The Geoscience Handbook 2016, http://rock.geosociety.org/Store/detail.aspx?id=DATASHEETS.
+
 McCarthy, D.M.J., Chandler, J.H. & Palmeri, A. (2016). Monitoring 3D Vibrations in Structures using High-resolution Blurred Imagery. The Photogrammetric Record, 31(155):304–324. Available at: http://doi.wiley.com/10.1111/phor.12155.
+
 Wackrow, R, Ferreira, E, Chandler, JH, Shiono, K. (2015). Camera calibration for water-biota research: the projected area of vegetation, Sensors, 15(12),:30261-30269, ISSN: 1424-8239. DOI: 10.3390/s151229798.
+
 Micheletti, N, Lane, SN, Chandler, JH (2015) Application of archival aerial photogrammetry to quantify climate forcing of alpine landscapes, Photogrammetric Record, 30(150):143-165, ISSN: 0031-868X. DOI:10.1111/phor.12099.
 Micheletti, N, Chandler, JH, Lane, SN (2015) Investigating the geomorphological potential of freely available and accessible structure-from-motion photogrammetry using a smartphone, Earth Surface Processes And Landforms, 40(4):473-486, ISSN: 0197-9337. DOI: 10.1002/esp.3648.
 Micheletti, N, Chandler, JH, Lane, S (2015) Structure from motion (SFM) photogrammetry, ISSN: 2047-0371.
