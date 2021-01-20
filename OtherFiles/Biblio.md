@@ -121,32 +121,33 @@ Gooch, M.J. and Chandler, J.H., (2001). Failure prediction in automatically gene
 
 Chandler, J.H., Shiono, K., Rameshwaren, P. and Lane, S.N., (2001). Measuring flume surfaces for hydraulics research using a Kodak DCS460, Photogrammetric Record, 17(97): 39-61, ISBN 0031 868X.
 
-Lane, S.N., Chandler, J.H. and Porfiri, K., 2001. ''Monitoring river channel and flume surfaces with digital photogrammetry'', Journal of Hydraulic Engineering, 127(10):871-877, ISBN0733-9429.
+Lane, S.N., Chandler, J.H. and Porfiri, K., (2001). Monitoring river channel and flume surfaces with digital photogrammetry, Journal of Hydraulic Engineering, 127(10):871-877, ISBN0733-9429.
 
-Chandler, J.H., 2000. ''What is ISI and why is it important?'', Survey Review, 35(277): 505-508, ISSN 0039 6265.
+Chandler, J.H., (2000). What is ISI and why is it important?, Survey Review, 35(277): 505-508, ISSN 0039 6265.
 
-Chandler, J.H., 1999. ''Effective application of automated digital photogrammetry for geomorphological research'', Earth Surface Processes and Landforms, 24: 51-63, ISSN 01979337.
+Chandler, J.H., (1999). Effective application of automated digital photogrammetry for geomorphological research, Earth Surface Processes and Landforms, 24: 51-63, ISSN 01979337.
 
-Ahmad, A. and Chandler, J.H., 1999. ''Photogrammetric capabilities of the Kodak DC40, DCS420 and DCS460 Digital Cameras'', Photogrammetric Record, 16(94): 601-615, ISSN 0031-868X.
+Ahmad, A. and Chandler, J.H., (1999). Photogrammetric capabilities of the Kodak DC40, DCS420 and DCS460 Digital Cameras, Photogrammetric Record, 16(94): 601-615, ISSN 0031-868X.
 
-Gooch, M.J., Chandler, J.H. and Stojic, M., 1999. ''Accuracy assessment of digital elevation models generated using the Erdas Imagine Orthomax digital photogrammetric system'', Photogrammetric Record, 16(93): 519-531, ISSN 0031 - 858 X.
+Gooch, M.J., Chandler, J.H. and Stojic, M., (1999). Accuracy assessment of digital elevation models generated using the Erdas Imagine Orthomax digital photogrammetric system, Photogrammetric Record, 16(93): 519-531, ISSN 0031 - 858 X.
 
-Stojic, M., Chandler, J.H., Ashmore, P. and Luce, J., 1998. ''The Assessment of Sediment Transport Rates by Automated Digital Photogrammetry'', Photogrammetric Engineering and Remote Sensing, 645: 387-395, ISSN 0099-1112.
+Stojic, M., Chandler, J.H., Ashmore, P. and Luce, J., (1998). The Assessment of Sediment Transport Rates by Automated Digital Photogrammetry, Photogrammetric Engineering and Remote Sensing, 645: 387-395, ISSN 0099-1112.
 
-Butler, J.B., Lane, S.N. and Chandler, J.H.,1998. ''Assessment of DEM quality for characterizing surface roughness using digital close range photogrammetry'', Photogrammetric Record, 16(92): 271-291, ISBN 0031 868 X.
+Butler, J.B., Lane, S.N. and Chandler, J.H., (1998). Assessment of DEM quality for characterizing surface roughness using digital close range photogrammetry, Photogrammetric Record, 16(92): 271-291, ISBN 0031 868 X.
 
-Lane, S.N., Biron, P.M., Bradbrook, K.F., Butler, J.B., Chandler, J.H., Crowell, M.D., McLelland, S.J., Richards, K.S. and Roy, A.G., 1998. Integrated three-dimensional measurements of river channel topography and flow process using acoustic doppler velocimetry'', Earth Surface Processes and Landforms, 23: 1247-1267, ISBN 0197 9337.
+Lane, S.N., Biron, P.M., Bradbrook, K.F., Butler, J.B., Chandler, J.H., Crowell, M.D., McLelland, S.J., Richards, K.S. and Roy, A.G., (1998). Integrated three-dimensional measurements of river channel topography and flow process using acoustic doppler velocimetry, Earth Surface Processes and Landforms, 23: 1247-1267, ISBN 0197 9337.
 
-Pyle, C.J., Richards, K.S. and Chandler, J.H., 1997. ''Digital Photogrammetric Monitoring of River Bank Erosion'', Photogrammetric Record, 15(89): 753-763, ISSN 0031-868X.
-Chandler, J.H. and Padfield, C.J., 1996. ''Automated Digital Photogrammetry on a Shoestring'', Photogrammetric Record, 15(88): 545-559.
+Pyle, C.J., Richards, K.S. and Chandler, J.H., (1997). Digital Photogrammetric Monitoring of River Bank Erosion, Photogrammetric Record, 15(89): 753-763, ISSN 0031-868X.
 
-Lane, S.N., Richards, K.S. and Chandler, J.H., 1996. ''Discharge and Sediment Supply Controls on Errosion and Deposition in a Dynamic Alluvial Channel'', Geomorphology, 15: 1-15, ISSN 0169-555X.
+Chandler, J.H. and Padfield, C.J., (1996). Automated Digital Photogrammetry on a Shoestring, Photogrammetric Record, 15(88): 545-559.
 
-Chandler, J.H., Littleworth, R.M. and Van Havere, W., 1995. ''3D Plant Models derived by by Analytical Photogrammetry and Their Use in the Preparation of Area Classification Drawings'', Transactions Institution of Chemical Engineers, 73(B): 290-298, ISSN 0957-5820.
+Lane, S.N., Richards, K.S. and Chandler, J.H., (1996). Discharge and Sediment Supply Controls on Errosion and Deposition in a Dynamic Alluvial Channel, Geomorphology, 15: 1-15, ISSN 0169-555X.
 
-Lane, S.N., Richards, K.S. and Chandler, J.H., ''Morphological Estimation of The Time-Integrated Bed-Load Transport Rate'', Water Resources Research, 31(3), 1995, pp 761-772.
+Chandler, J.H., Littleworth, R.M. and Van Havere, W., (1995). 3D Plant Models derived by by Analytical Photogrammetry and Their Use in the Preparation of Area Classification Drawings, Transactions Institution of Chemical Engineers, 73(B): 290-298, ISSN 0957-5820.
 
-Chandler, J.H. and Brunsden, D., 1995. ''Steady State Behaviour of the Black Ven Mudslide: The Application of Archical Analytical Photogrammetry to Studies of Landform Change'', Earth Surface Processes and Landforms, 20: 255-275, ISBN 0197-9337.
+Lane, S.N., Richards, K.S. and Chandler, J.H., (1995). Morphological Estimation of The Time-Integrated Bed-Load Transport Rate, Water Resources Research, 31(3): 761-772.
+
+Chandler, J.H. and Brunsden, D., (1995). Steady State Behaviour of the Black Ven Mudslide: The Application of Archical Analytical Photogrammetry to Studies of Landform Change, Earth Surface Processes and Landforms, 20: 255-275, ISBN 0197-9337.
 
 Littleworth, R.M. and Chandler, J.H., (1995). 3-D Computer Graphic Models by Analytical Photogrammetry, Photogrammetric Record, 15(85): 65-76, ISBN 0031-868X.
 
