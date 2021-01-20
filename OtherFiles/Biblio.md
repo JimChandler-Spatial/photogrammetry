@@ -6,6 +6,7 @@ Fawcett D, Blanco-Sacristán J, Benaud P. (2019). Two decades of digital photogr
 
 
 **Journal Papers**
+
 Parente, L., Chandler, J.H. and Dixon, N. (2021). Automated Registration of SfM‐MVS Multitemporal Datasets Using Terrestrial and Oblique Aerial Images. Photogrammetric Record. https://doi.org/10.1111/phor.12346
 
 Sanz‐Ablanedo, E., Chandler, J. H., Ballesteros‐Pérez, P., and Rodríguez‐Pérez, J. R. (2020). Reducing systematic dome errors in digital elevation models through better UAV flight design. Earth Surf. Process. Landforms, 45: 2134– 2147. https://doi.org/10.1002/esp.4871.
