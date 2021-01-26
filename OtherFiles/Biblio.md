@@ -91,7 +91,7 @@ Chandler, J.H., Bryan, P. and Fryer, J.G. (2007), The Development And Applicatio
 
 Walstra, J; Chandler, JH; Dixon, N; Dijkstra, TA, (2007). Aerial photography and digital photogrammetry for landslide monitoring, In: MAPPING HAZARDOUS TERRAIN USING REMOTE SENSING, Ed: Teeuw, RM. Geological Society Special Publication, 283: 53-6. DOI: 10.1144/SP283.5.
 
-J. Walstra, N. Dixon, J.H. Chandler; (2007). [Historical aerial photographs for landslide assessment: two case histories](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/JanQJEG.pdf). Quarterly Journal of Engineering Geology and Hydrogeology ; 40 (4): 315–332. doi: https://doi.org/10.1144/1470-9236/07-011.
+J. Walstra, N. Dixon, J.H. Chandler; (2007). [Historical aerial photographs for landslide assessment: two case histories](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/JanQJEG.pdf). _Quarterly Journal of Engineering Geology and Hydrogeology_; 40(4): 315–332. doi: https://doi.org/10.1144/1470-9236/07-011.
 
 Chandler, J.H., Bryan, P. and Fryer, J.G. (2007), The Development And Application Of A Simple Methodology For Recording Rock Art Using Consumer‐Grade Digital Cameras. The Photogrammetric Record, 22: 10-21. https://doi.org/10.1111/j.1477-9730.2007.00414.x
 
