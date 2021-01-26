@@ -57,7 +57,7 @@ Gunawan and X. Sun and M. Sterling and K. Shiono and R. Tsubaki and P. Rameshwar
 
 Wackrow, R. and Chandler, J.H. (2011). Minimising systematic error surfaces in digital elevation models using oblique convergent imagery. The Photogrammetric Record, 26: 16-31. https://doi.org/10.1111/j.1477-9730.2011.00623.x
 
-Walstra, J., Chandler, J.H., Dixon, N. and Wackrow, R. (2011). [Evaluation of the controls affecting the quality of spatial data derived from historical aerial photographs[(https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/ESPL_Walstra2011.pdf). _Earth Surface Processes and Landforms, 36: 853-863. https://doi.org/10.1002/esp.2111
+Walstra, J., Chandler, J.H., Dixon, N. and Wackrow, R. (2011). [Evaluation of the controls affecting the quality of spatial data derived from historical aerial photographs](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/ESPL_Walstra2011.pdf). _Earth Surface Processes and Landforms, 36: 853-863. https://doi.org/10.1002/esp.2111
 
 Heng, B. C. P., Sander, G. C., Armstrong, A., Quinton, J. N., Chandler, J. H., and Scott, C. F. (2011). Modeling the dynamics of soil erosion and size‐selective sediment transport over nonuniform topography in flume‐scale experiments, Water Resources. Research., 47, W02513, https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2010WR009375
 
