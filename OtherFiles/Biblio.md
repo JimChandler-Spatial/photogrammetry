@@ -1,6 +1,6 @@
 **Appreciations**
 
-Lane, S., Buckley, S., Mills, J., Rieke‐Zapp, D., Wackrow, R. and Granshaw, S. (2019). Professor Jim Chandler. _Photogram Record_, 34: 467-480. https://doi.org/10.1111/phor.12302
+Lane, S., Buckley, S., Mills, J., Rieke‐Zapp, D., Wackrow, R. and Granshaw, S. (2019). Professor Jim Chandler. _Photogrammetric Record_, 34: 467-480. https://doi.org/10.1111/phor.12302
 
 Fawcett D, Blanco-Sacristán J, Benaud P. (2019). Two decades of digital photogrammetry: Revisiting Chandler’s 1999 paper on “Effective application of automated digital photogrammetry for geomorphological research” – a synthesis. _Progress in Physical Geography: Earth and Environment_, 43(2):299-312. https://10.1177/0309133319832863
 
