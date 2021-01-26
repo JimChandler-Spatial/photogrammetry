@@ -73,7 +73,7 @@ Chandler, J. (2009), Historic Maps and Imagery For Modern Scientific Application
 
 K. Shiono, Tony L. Chan, Jake Spooner, P. Rameshwaran & J. H. Chandler (2009). The effect of floodplain roughness on flow structures, bedforms and sediment transport rates in meandering channels with overbank flows: Part I, Journal of Hydraulic Research, 47:1, 5-19, DOI: 10.3826/jhr.2009.2944-I
 
-Smith, M.J., Chandler, J. and Rose, J. (2009), High spatial resolution data acquisition for the geosciences: kite aerial photography. Earth Surf. Process. Landforms, 34: 155-161. https://doi.org/10.1002/esp.1702
+Smith, M.J., Chandler, J. and Rose, J. (2009), [High spatial resolution data acquisition for the geosciences: kite aerial photography](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Smith_ESPL_repos.pdf). _Earth Surface Processes and Landforms_, 34: 155-161. https://doi.org/10.1002/esp.1702
 
 S. Shair, J. H. Chandler, V. J. GonzÁlez-Villela, R. M. Parkin and M. R. Jackson, (2008). The Use of Aerial Images and GPS for Mobile Robot Waypoint Navigation, IEEE/ASME Transactions on Mechatronics, 13(6): 692-699. doi: 10.1109/TMECH.2008.2005197.
 
