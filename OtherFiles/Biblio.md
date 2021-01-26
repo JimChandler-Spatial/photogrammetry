@@ -47,7 +47,7 @@ Montreuil, A-L., Bullard, J.E., Chandler, J.H., (2013). Detecting seasonal varia
 
 McCarthy, D. M. J., Chandler, J. H., & Palmeri, A. (2013). Monitoring Dynamic Structural Tests Using Image Deblurring Techniques. Key Engineering Materials, 569–570, 932–939. https://doi.org/10.4028/www.scientific.net/kem.569-570.932
 
-Chandler, J., and Fryer, J., (2013). AutoDesk 123D Catch: How accurate is it? Geomatics World, 2(21): 28-30.
+Chandler, J., and Fryer, J., (2013). [AutoDesk 123D Catch: How accurate is it?](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Chandler%2BFryer-2013.pdf) _Geomatics World_, 2(21): 28-30.
 
 Kirchhöfer, M.K., Chandler, J.H., Wackrow, R. and Bryan, P. (2012). [Direct Exterior Orientation Determination for a Low‐Cost Heritage Recording System](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Kirchhoefer_RecordPaper_repos.pdf). The Photogrammetric Record, 27: 443-461. https://doi.org/10.1111/j.1477-9730.2012.00701.x
 
