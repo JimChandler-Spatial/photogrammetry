@@ -37,7 +37,7 @@ Micheletti, N, Chandler, JH, Lane, S (2015) Structure from motion (SFM) photogra
 
 Sieberth, T, Wackrow, R, Chandler, JH (2014) Motion Blur Disturbs - The Influence Of Motion-Blurred Images In Photogrammetry,Photogrammetric Record, 29(148),:434-453, ISSN: 0031-868X. DOI:10.1111/phor.12082.
 
-Harrison, M and Chandler, JH (2014) www.surveyplot.co.uk- a free web-based application for displaying survey data, Geomatics World, 22(6):29-30, ISSN: 1567-5882.
+Harrison, M and Chandler, JH (2014) Surveyplot- a free web-based application for displaying survey data, Geomatics World, 22(6):29-30, ISSN: 1567-5882.
 
 Irvine-Fynn, TDL, Sanz-Ablanedo, E, Rutter, N, Smith, MW, Chandler, JH (2014). Measuring glacier surface roughness using plot-scale, close-range digital photogrammetry, Journal of Glaciology, 60(223):957-969, ISSN: 0022-1430. DOI: 10.3189/2014JoG14J032.
 
