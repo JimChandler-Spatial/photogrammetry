@@ -170,7 +170,7 @@ Chandler, J.H., Cooper, M.A.R. and Robson, S., (1990). Analytical aspects of sma
 
 Chandler, J.H. and Moore, R., (1989). Analytical photogrammetry: a method for monitoring slope instability, Quarterly Journal Engineering Geology, 22 : 97-110.
 
-Chandler, J.H. and Cooper, M.A.R., (1989). The extraction of positional data from historical photographs and their application in geomorphology, Photogrammetric Record, 13(73): 69-78.
+Chandler, J.H. and Cooper, M.A.R., (1989). [The extraction of positional data from historical photographs and their application in geomorphology](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/ChandlerCooper-1989-TheExtractionofPositionalDatafromHistoricalPhotographsandtheirApplicationtoGeomorphology.pdf), _Photogrammetric Record_, 13(73): 69-78.
 
 Chandler, J.H. and Cooper, M.A.R., (1988). Monitoring the development of landslides using archival photography and analytical photogrammetry, Land and Minerals Surveying, 6: 576-584.
 
