@@ -131,7 +131,7 @@ Ahmad, A. and Chandler, J.H., (1999). Photogrammetric capabilities of the Kodak 
 
 Gooch, M.J., Chandler, J.H. and Stojic, M., (1999). Accuracy assessment of digital elevation models generated using the Erdas Imagine Orthomax digital photogrammetric system, Photogrammetric Record, 16(93): 519-531, ISSN 0031 - 858 X.
 
-Stojic, M., Chandler, J.H., Ashmore, P. and Luce, J., (1998). The Assessment of Sediment Transport Rates by Automated Digital Photogrammetry, Photogrammetric Engineering and Remote Sensing, 645: 387-395, ISSN 0099-1112.
+Stojic, M., Chandler, J.H., Ashmore, P. and Luce, J., (1998). [The Assessment of Sediment Transport Rates by Automated Digital Photogrammetry](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/The_assessment_of_sediment_transport_rates_by_auto.pdf), _Photogrammetric Engineering and Remote Sensing_, 645: 387-395, ISSN 0099-1112.
 
 Butler, J.B., Lane, S.N. and Chandler, J.H., (1998). Assessment of DEM quality for characterizing surface roughness using digital close range photogrammetry, Photogrammetric Record, 16(92): 271-291, ISBN 0031 868 X.
 
