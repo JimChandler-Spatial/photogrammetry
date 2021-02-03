@@ -21,10 +21,4 @@ Primary aim of my research was to develop and exploit modern geomatics methods a
 3. ISPRS Working Group V5/6, (2008-2016) and ["Tips for close range photogrammetry"](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/ISPRSV5/index.md).
 4. Change detection
 
-**Bold** and _Italic_ and `Code` text
-
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+_Updated: February, 2021_
