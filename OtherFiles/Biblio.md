@@ -95,7 +95,7 @@ J. Walstra, N. Dixon, J.H. Chandler; (2007). [Historical aerial photographs for 
 
 Chandler, J.H., Bryan, P. and Fryer, J.G. (2007), The Development And Application Of A Simple Methodology For Recording Rock Art Using Consumer‐Grade Digital Cameras. The Photogrammetric Record, 22: 10-21. https://doi.org/10.1111/j.1477-9730.2007.00414.x
 
-Chandler, J.H., Fryer, J.G. and Kniest, H.T., (2005). Non-invasive 3D recording of aboriginal rock art using cost effective digital photogrammetry, Rock Art Research, 22(2), 2005: 119-130.
+Chandler, J.H., Fryer, J.G. and Kniest, H.T., (2005). [Non-invasive 3D recording of aboriginal rock art using cost effective digital photogrammetry](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/PaperNon-invasive3DChandler-Fryer-Kniest.pdf), _Rock Art Research_, 22(2), 2005: 119-130.
 
 Chandler, J.H., Fryer, J.G. and Jack, A., (2005). Metric capabilities of low-cost digital cameras for close range surface measurement, The Photogrammetric Record, 20(109), 2005: 12-26.
 
