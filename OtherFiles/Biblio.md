@@ -105,7 +105,7 @@ Buffin-Belanger, T., Reid, I., Rice, S., Chandler, J.H. and Lancaster, J., (2003
 
 Chandler, J.H., Buffin-Belanger, T., Rice, S.P., Reid, I. and Graham, D.J., (2003). [The accuracy of a river bed moulding/casting system and the effectiveness of a low-cost digital camera for recording river bed fabric](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/The_accuracy_of_a_river_bed_casting_system_and_the.pdf), _Photogrammetric Record_, 18: 209-223, ISSN 0031 868X.
 
-Chandler, J.H., Ashmore, P., Paolo, C., Gooch, M. and Varkaris, F., (2002). Monitoring river-channel change using terrestrial oblique digital imagery and automated digital photogrammetry, Annals of the Association of American Geographers, 92(4): 631-644, ISSN 0004-5608.
+Chandler, J.H., Ashmore, P., Paolo, C., Gooch, M. and Varkaris, F., (2002). [Monitoring river-channel change using terrestrial oblique digital imagery and automated digital photogrammetry](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/AAG2002_JC.pdf), _Annals of the Association of American Geographers_, 92(4): 631-644, ISSN 0004-5608.
 
 Butler, JB, Lane, SN, Chandler, J.H. and Porfiri, E, (2002). Through-water close range digital photogrammetry in flume and field environments, Photogrammetric Record, 17(99): 419-439, ISBN0031-868X.
 
