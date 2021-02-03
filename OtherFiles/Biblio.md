@@ -125,7 +125,7 @@ Lane, S.N., Chandler, J.H. and Porfiri, K., (2001). Monitoring river channel and
 
 Chandler, J.H., (2000). What is ISI and why is it important?, Survey Review, 35(277): 505-508, ISSN 0039 6265.
 
-Chandler, J.H., (1999). Effective application of automated digital photogrammetry for geomorphological research, Earth Surface Processes and Landforms, 24: 51-63, ISSN 01979337.
+Chandler, J.H., (1999). [Effective application of automated digital photogrammetry for geomorphological research](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Effective_application_of_automated_digital_photogr.pdf), _Earth Surface Processes and Landforms_, 24: 51-63, ISSN 01979337.
 
 Ahmad, A. and Chandler, J.H., (1999). Photogrammetric capabilities of the Kodak DC40, DCS420 and DCS460 Digital Cameras, Photogrammetric Record, 16(94): 601-615, ISSN 0031-868X.
 
