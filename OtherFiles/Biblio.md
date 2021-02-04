@@ -23,7 +23,7 @@ Ferreira, E, Chandler, J, Wackrow, R, Shiono, K. (2017). Automated extraction of
 
 Sieberth, T., Wackrow, R. & Chandler, JH. (2016). Automatic detection of blurred images in UAV image sets. ISPRS Journal of Photogrammetry and Remote Sensing, 122:1–16. Available at: http://dx.doi.org/10.1016/j.isprsjprs.2016.09.010.
 
-Chandler, J.H., and Buckley, S. (2016). Structure from motion (SFM) photogrammetry vs terrestrial laser scanning, _The Geoscience Handbook 2016_, http://rock.geosociety.org/Store/detail.aspx?id=DATASHEETS.
+Chandler, J.H., and Buckley, S. (2016). [Structure from motion (SFM) photogrammetry vs terrestrial laser scanning](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/AGI_SfM-v-TLS(3).pdf), _The Geoscience Handbook 2016_, http://rock.geosociety.org/Store/detail.aspx?id=DATASHEETS.
 
 McCarthy, D.M.J., Chandler, J.H. & Palmeri, A. (2016). Monitoring 3D Vibrations in Structures using High-resolution Blurred Imagery. _The Photogrammetric Record_, 31(155):304–324. Available at: http://doi.wiley.com/10.1111/phor.12155.
 
