@@ -35,41 +35,39 @@ Micheletti, N, Chandler, JH, Lane, SN (2015) [Investigating the geomorphological
 
 Micheletti, N, Chandler, JH, Lane, S (2015) [Structure from motion (SFM) photogrammetry](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Micheletti_et_al_SfM_GeomTech.pdf), _British Society for Geomorphology, Special Techniques_ ISSN: 2047-0371.
 
-Sieberth, T, Wackrow, R, Chandler, JH (2014) Motion Blur Disturbs - The Influence Of Motion-Blurred Images In Photogrammetry,Photogrammetric Record, 29(148),:434-453, ISSN: 0031-868X. DOI:10.1111/phor.12082.
+Sieberth, T, Wackrow, R, Chandler, JH (2014) Motion Blur Disturbs - The Influence Of Motion-Blurred Images in Photogrammetry, _Photogrammetric Record_, 29(148),:434-453, ISSN: 0031-868X. DOI:10.1111/phor.12082.
 
-Harrison, M and Chandler, JH (2014) Surveyplot- a free web-based application for displaying survey data, Geomatics World, 22(6):29-30, ISSN: 1567-5882.
+Harrison, M and Chandler, JH (2014) Surveyplot- a free web-based application for displaying survey data, _Geomatics World_, 22(6):29-30, ISSN: 1567-5882.
 
-Irvine-Fynn, TDL, Sanz-Ablanedo, E, Rutter, N, Smith, MW, Chandler, JH (2014). Measuring glacier surface roughness using plot-scale, close-range digital photogrammetry, Journal of Glaciology, 60(223):957-969, ISSN: 0022-1430. DOI: 10.3189/2014JoG14J032.
+Irvine-Fynn, TDL, Sanz-Ablanedo, E, Rutter, N, Smith, MW, Chandler, JH (2014). Measuring glacier surface roughness using plot-scale, close-range digital photogrammetry, _Journal of Glaciology_, 60(223):957-969, ISSN: 0022-1430. DOI: 10.3189/2014JoG14J032.
 
-Montreuil, A.‐L., Bullard, J.E., Chandler, J.H. and Millett, J. (2013). Decadal and seasonal development of embryo dunes on an accreting macrotidal beach: North Lincolnshire, UK. Earth Surf. Process. Landforms, 38: 1851-1868. https://doi.org/10.1002/esp.3432
+Montreuil, A.‐L., Bullard, J.E., Chandler, J.H. and Millett, J. (2013). Decadal and seasonal development of embryo dunes on an accreting macrotidal beach: North Lincolnshire, UK. _Earth Surface Processes and Landforms_, 38: 1851-1868. https://doi.org/10.1002/esp.3432
 
-Montreuil, A-L., Bullard, J.E., Chandler, J.H., (2013). Detecting seasonal variations in embryo dune morphology using a terrestrial laser scanner. Journal of Coastal Research, 65(sp2):1313-1318 (2013). https://doi.org/10.2112/SI65-222.1
+Montreuil, A-L., Bullard, J.E., Chandler, J.H., (2013). Detecting seasonal variations in embryo dune morphology using a terrestrial laser scanner. _Journal of Coastal Research_, 65(sp2):1313-1318 (2013). https://doi.org/10.2112/SI65-222.1
 
-McCarthy, D. M. J., Chandler, J. H., & Palmeri, A. (2013). Monitoring Dynamic Structural Tests Using Image Deblurring Techniques. Key Engineering Materials, 569–570, 932–939. https://doi.org/10.4028/www.scientific.net/kem.569-570.932
+McCarthy, D. M. J., Chandler, J. H., & Palmeri, A. (2013). Monitoring Dynamic Structural Tests Using Image Deblurring Techniques. _Key Engineering Materials_, 569–570, 932–939. https://doi.org/10.4028/www.scientific.net/kem.569-570.932
 
 Chandler, J., and Fryer, J., (2013). [AutoDesk 123D Catch: How accurate is it?](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Chandler%2BFryer-2013.pdf) _Geomatics World_, 2(21): 28-30.
 
-Kirchhöfer, M.K., Chandler, J.H., Wackrow, R. and Bryan, P. (2012). [Direct Exterior Orientation Determination for a Low‐Cost Heritage Recording System](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Kirchhoefer_RecordPaper_repos.pdf). The Photogrammetric Record, 27: 443-461. https://doi.org/10.1111/j.1477-9730.2012.00701.x
+Kirchhöfer, M.K., Chandler, J.H., Wackrow, R. and Bryan, P. (2012). [Direct Exterior Orientation Determination for a Low‐Cost Heritage Recording System](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Kirchhoefer_RecordPaper_repos.pdf). _Photogrammetric Record_, 27: 443-461. https://doi.org/10.1111/j.1477-9730.2012.00701.x
 
-Sanz‐Ablanedo, E., Chandler, J.H. and Wackrow, R. (2012). Parameterising Internal Camera Geometry with Focusing Distance. The Photogrammetric Record, 27: 210-226. https://doi.org/10.1111/j.1477-9730.2012.00677.x
+Sanz‐Ablanedo, E., Chandler, J.H. and Wackrow, R. (2012). Parameterising Internal Camera Geometry with Focusing Distance. _The Photogrammetric Record_, 27: 210-226. https://doi.org/10.1111/j.1477-9730.2012.00677.x
 
-Gunawan and X. Sun and M. Sterling and K. Shiono and R. Tsubaki and P. Rameshwaran and D.W. Knight, J.H. Chandler, X. Tang and I. Fujita, (2012). The application of LS-PIV to a small irregular river for inbank and overbank flows, Flow Measurement and Instrumentation, 24: 1-12. https://www.sciencedirect.com/science/article/abs/pii/S095559861200012X
+Gunawan and X. Sun and M. Sterling and K. Shiono and R. Tsubaki and P. Rameshwaran and D.W. Knight, J.H. Chandler, X. Tang and I. Fujita, (2012). The application of LS-PIV to a small irregular river for inbank and overbank flows, _Flow Measurement and Instrumentation_, 24: 1-12. https://www.sciencedirect.com/science/article/abs/pii/S095559861200012X
 
-Wackrow, R. and Chandler, J.H. (2011). Minimising systematic error surfaces in digital elevation models using oblique convergent imagery. The Photogrammetric Record, 26: 16-31. https://doi.org/10.1111/j.1477-9730.2011.00623.x
+Wackrow, R. and Chandler, J.H. (2011). Minimising systematic error surfaces in digital elevation models using oblique convergent imagery. _The Photogrammetric Record_, 26: 16-31. https://doi.org/10.1111/j.1477-9730.2011.00623.x
 
-Walstra, J., Chandler, J.H., Dixon, N. and Wackrow, R. (2011). [Evaluation of the controls affecting the quality of spatial data derived from historical aerial photographs](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/ESPL_Walstra2011.pdf). _Earth Surface Processes and Landforms, 36: 853-863. https://doi.org/10.1002/esp.2111
+Walstra, J., Chandler, J.H., Dixon, N. and Wackrow, R. (2011). [Evaluation of the controls affecting the quality of spatial data derived from historical aerial photographs](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/ESPL_Walstra2011.pdf). _Earth Surface Processes and Landforms_, 36: 853-863. https://doi.org/10.1002/esp.2111
 
-Heng, B. C. P., Sander, G. C., Armstrong, A., Quinton, J. N., Chandler, J. H., and Scott, C. F. (2011). Modeling the dynamics of soil erosion and size‐selective sediment transport over nonuniform topography in flume‐scale experiments, Water Resources. Research., 47, W02513, https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2010WR009375
+Heng, B. C. P., Sander, G. C., Armstrong, A., Quinton, J. N., Chandler, J. H., and Scott, C. F. (2011). Modeling the dynamics of soil erosion and size‐selective sediment transport over nonuniform topography in flume‐scale experiments, _Water Resources Research_, 47, W02513, https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2010WR009375
 
-Armstrong, A., Quinton, J.N., Heng, B.C.P. and Chandler, J.H. (2011), Variability of interrill erosion at low slopes. Earth Surf. Process. Landforms, 36: 97-106. https://doi.org/10.1002/esp.2024
+Armstrong, A., Quinton, J.N., Heng, B.C.P. and Chandler, J.H. (2011), Variability of interrill erosion at low slopes. _Earth Surface Processes and Landforms_, 36: 97-106. https://doi.org/10.1002/esp.2024
 
-Xin Sun, Koji Shiono, Ponnambalam Rameshwaran & Jim H. Chandler (2010) Modelling vegetation effects in irregular meandering river, Journal of Hydraulic Research, 48:6, 775-783, DOI: 10.1080/00221686.2010.531101
+Xin Sun, Koji Shiono, Ponnambalam Rameshwaran & Jim H. Chandler (2010) Modelling vegetation effects in irregular meandering river, _Journal of Hydraulic Research_, 48:6, 775-783, DOI: 10.1080/00221686.2010.531101
 
-Shiono, L., Spooner, J., Chan, T., Rameshwaren, P. and Chandler, J.H. (2010). Flow characteristics in meandering channels with non-mobile and mobile beds for overbank flows, Journal of Hydraulic Research, 46(1): 113-132. https://doi.org/10.1080/00221686.2008.9521848
+Shiono, L., Spooner, J., Chan, T., Rameshwaren, P. and Chandler, J.H. (2010). Flow characteristics in meandering channels with non-mobile and mobile beds for overbank flows, _Journal of Hydraulic Research_, 46(1): 113-132. https://doi.org/10.1080/00221686.2008.9521848
 
-Peter Heng, B.C., Chandler, J.H. and Armstrong, A. (2010), Applying close range digital photogrammetry in soil erosion studies. The Photogrammetric Record, 25: 240-265. https://doi.org/10.1111/j.1477-9730.2010.00584.x
-
-Chandler, J. (2009), Historic Maps and Imagery For Modern Scientific Applications. The Photogrammetric Record, 24: 196-197. https://doi.org/10.1111/j.1477-9730.2009.00532.x
+Peter Heng, B.C., Chandler, J.H. and Armstrong, A. (2010), Applying close range digital photogrammetry in soil erosion studies. _The Photogrammetric Record_, 25: 240-265. https://doi.org/10.1111/j.1477-9730.2010.00584.x
 
 K. Shiono, Tony L. Chan, Jake Spooner, P. Rameshwaran & J. H. Chandler (2009). The effect of floodplain roughness on flow structures, bedforms and sediment transport rates in meandering channels with overbank flows: Part I, Journal of Hydraulic Research, 47:1, 5-19, DOI: 10.3826/jhr.2009.2944-I
 
