@@ -69,7 +69,7 @@ Shiono, L., Spooner, J., Chan, T., Rameshwaren, P. and Chandler, J.H. (2010). Fl
 
 Peter Heng, B.C., Chandler, J.H. and Armstrong, A. (2010), Applying close range digital photogrammetry in soil erosion studies. _The Photogrammetric Record_, 25: 240-265. https://doi.org/10.1111/j.1477-9730.2010.00584.x
 
-K. Shiono, Tony L. Chan, Jake Spooner, P. Rameshwaran & J. H. Chandler (2009). The effect of floodplain roughness on flow structures, bedforms and sediment transport rates in meandering channels with overbank flows: Part I, Journal of Hydraulic Research, 47:1, 5-19, DOI: 10.3826/jhr.2009.2944-I
+K. Shiono, Tony L. Chan, Jake Spooner, P. Rameshwaran & J. H. Chandler (2009). [The effect of floodplain roughness on flow structures, bedforms and sediment transport rates in meandering channels with overbank flows: Part I](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/HydraulicResearch1.pdf), _Journal of Hydraulic Research_, 47:1, 5-19, DOI: 10.3826/jhr.2009.2944-I
 
 Smith, M.J., Chandler, J. and Rose, J. (2009), [High spatial resolution data acquisition for the geosciences: kite aerial photography](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Smith_ESPL_repos.pdf). _Earth Surface Processes and Landforms_, 34: 155-161. https://doi.org/10.1002/esp.1702
 
