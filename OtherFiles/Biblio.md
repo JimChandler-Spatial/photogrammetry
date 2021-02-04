@@ -85,9 +85,9 @@ Wackrow, R. and Chandler, J.H. (2008), A convergent image configuration for DEM 
 
 J Fryer, H Mitchell, JH Chandler, (2007). [Applications of 3D measurement from images](https://www.whittlespublishing.com/Applications_of_3D_Measurement_from_Images), Whittles Publishing. pp312.
 
-Wackrow, R., Chandler, J.H. and Bryan, P. (2007), Geometric consistency and stability of consumer‐grade digital cameras for accurate spatial measurement. _Photogrammetric Record_, 22: 121-134. https://doi.org/10.1111/j.1477-9730.2007.00436.x
+Wackrow, R., Chandler, J.H. and Bryan, P. (2007), Geometric consistency and stability of consumer‐grade digital cameras for accurate spatial measurement. _The Photogrammetric Record_, 22: 121-134. https://doi.org/10.1111/j.1477-9730.2007.00436.x
 
-Chandler, J.H., Bryan, P. and Fryer, J.G. (2007), The Development And Application of a Simple Methodology for Recording Rock Art Using Consumer‐Grade Digital Cameras. _Photogrammetric Record_, 22: 10-21. https://doi.org/10.1111/j.1477-9730.2007.00414.x
+Chandler, J.H., Bryan, P. and Fryer, J.G. (2007), The Development And Application of a Simple Methodology for Recording Rock Art Using Consumer‐Grade Digital Cameras. _The Photogrammetric Record_, 22: 10-21. https://doi.org/10.1111/j.1477-9730.2007.00414.x
 
 Walstra, J; Chandler, JH; Dixon, N; Dijkstra, TA, (2007). Aerial photography and digital photogrammetry for landslide monitoring, In: MAPPING HAZARDOUS TERRAIN USING REMOTE SENSING, Ed: Teeuw, RM. Geological Society Special Publication, 283: 53-6. DOI: 10.1144/SP283.5.
 
@@ -101,7 +101,7 @@ Lane, S.N. and Chandler, J.H., (2003), The Generation of high quality topographi
 
 Buffin-Belanger, T., Reid, I., Rice, S., Chandler, J.H. and Lancaster, J., (2003). A casting procedure for reproducing coarse-grained sedimentary surfaces, _Earth Surface Processes and Landforms_, 28: 787-796, ISSN 0197 9337.
 
-Chandler, J.H., Buffin-Belanger, T., Rice, S.P., Reid, I. and Graham, D.J., (2003). [The accuracy of a river bed moulding/casting system and the effectiveness of a low-cost digital camera for recording river bed fabric](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/The_accuracy_of_a_river_bed_casting_system_and_the.pdf), _Photogrammetric Record_, 18: 209-223, ISSN 0031 868X.
+Chandler, J.H., Buffin-Belanger, T., Rice, S.P., Reid, I. and Graham, D.J., (2003). [The accuracy of a river bed moulding/casting system and the effectiveness of a low-cost digital camera for recording river bed fabric](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/The_accuracy_of_a_river_bed_casting_system_and_the.pdf), _The Photogrammetric Record_, 18: 209-223, ISSN 0031 868X.
 
 Chandler, J.H., Ashmore, P., Paolo, C., Gooch, M. and Varkaris, F., (2002). [Monitoring river-channel change using terrestrial oblique digital imagery and automated digital photogrammetry](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/AAG2002_JC.pdf), _Annals of the Association of American Geographers_, 92(4): 631-644, ISSN 0004-5608.
 
@@ -117,7 +117,7 @@ Robins, P.J., Austin, S.A., Chandler, J.H. and Jones, P., (2001). Flexural strai
 
 Gooch, M.J. and Chandler, J.H., (2001). Failure prediction in automatically generated digital elevation models, Computers and Geosciences, 27(8): 913-920, ISSN 0098 3004/01.
 
-Chandler, J.H., Shiono, K., Rameshwaren, P. and Lane, S.N., (2001). Measuring flume surfaces for hydraulics research using a Kodak DCS460, Photogrammetric Record, 17(97): 39-61, ISBN 0031 868X.
+Chandler, J.H., Shiono, K., Rameshwaren, P. and Lane, S.N., (2001). Measuring flume surfaces for hydraulics research using a Kodak DCS460, _The Photogrammetric Record_, 17(97): 39-61, ISBN 0031 868X.
 
 Lane, S.N., Chandler, J.H. and Porfiri, K., (2001). Monitoring river channel and flume surfaces with digital photogrammetry, Journal of Hydraulic Engineering, 127(10):871-877, ISBN0733-9429.
 
@@ -125,19 +125,19 @@ Chandler, J.H., (2000). What is ISI and why is it important?, Survey Review, 35(
 
 Chandler, J.H., (1999). [Effective application of automated digital photogrammetry for geomorphological research](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Effective_application_of_automated_digital_photogr.pdf), _Earth Surface Processes and Landforms_, 24: 51-63, ISSN 01979337.
 
-Ahmad, A. and Chandler, J.H., (1999). Photogrammetric capabilities of the Kodak DC40, DCS420 and DCS460 Digital Cameras, Photogrammetric Record, 16(94): 601-615, ISSN 0031-868X.
+Ahmad, A. and Chandler, J.H., (1999). Photogrammetric capabilities of the Kodak DC40, DCS420 and DCS460 Digital Cameras, _The Photogrammetric Record_, 16(94): 601-615, ISSN 0031-868X.
 
-Gooch, M.J., Chandler, J.H. and Stojic, M., (1999). Accuracy assessment of digital elevation models generated using the Erdas Imagine Orthomax digital photogrammetric system, Photogrammetric Record, 16(93): 519-531, ISSN 0031 - 858 X.
+Gooch, M.J., Chandler, J.H. and Stojic, M., (1999). Accuracy assessment of digital elevation models generated using the Erdas Imagine Orthomax digital photogrammetric system, _The Photogrammetric Record_, 16(93): 519-531, ISSN 0031 - 858 X.
 
 Stojic, M., Chandler, J.H., Ashmore, P. and Luce, J., (1998). [The Assessment of Sediment Transport Rates by Automated Digital Photogrammetry](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/The_assessment_of_sediment_transport_rates_by_auto.pdf), _Photogrammetric Engineering and Remote Sensing_, 645: 387-395, ISSN 0099-1112.
 
-Butler, J.B., Lane, S.N. and Chandler, J.H., (1998). Assessment of DEM quality for characterizing surface roughness using digital close range photogrammetry, Photogrammetric Record, 16(92): 271-291, ISBN 0031 868 X.
+Butler, J.B., Lane, S.N. and Chandler, J.H., (1998). Assessment of DEM quality for characterizing surface roughness using digital close range photogrammetry, _The Photogrammetric Record_, 16(92): 271-291, ISBN 0031 868 X.
 
 Lane, S.N., Biron, P.M., Bradbrook, K.F., Butler, J.B., Chandler, J.H., Crowell, M.D., McLelland, S.J., Richards, K.S. and Roy, A.G., (1998). Integrated three-dimensional measurements of river channel topography and flow process using acoustic doppler velocimetry, Earth Surface Processes and Landforms, 23: 1247-1267, ISBN 0197 9337.
 
-Pyle, C.J., Richards, K.S. and Chandler, J.H., (1997). Digital Photogrammetric Monitoring of River Bank Erosion, Photogrammetric Record, 15(89): 753-763, ISSN 0031-868X.
+Pyle, C.J., Richards, K.S. and Chandler, J.H., (1997). Digital Photogrammetric Monitoring of River Bank Erosion, _The Photogrammetric Record_, 15(89): 753-763, ISSN 0031-868X.
 
-Chandler, J.H. and Padfield, C.J., (1996). Automated Digital Photogrammetry on a Shoestring, Photogrammetric Record, 15(88): 545-559.
+Chandler, J.H. and Padfield, C.J., (1996). Automated Digital Photogrammetry on a Shoestring, _The Photogrammetric Record_, 15(88): 545-559.
 
 Lane, S.N., Richards, K.S. and Chandler, J.H., (1996). Discharge and Sediment Supply Controls on Errosion and Deposition in a Dynamic Alluvial Channel, Geomorphology, 15: 1-15, ISSN 0169-555X.
 
@@ -147,7 +147,7 @@ Lane, S.N., Richards, K.S. and Chandler, J.H., (1995). Morphological Estimation 
 
 Chandler, J.H. and Brunsden, D., (1995). Steady State Behaviour of the Black Ven Mudslide: The Application of Archical Analytical Photogrammetry to Studies of Landform Change, Earth Surface Processes and Landforms, 20: 255-275, ISBN 0197-9337.
 
-Littleworth, R.M. and Chandler, J.H., (1995). 3-D Computer Graphic Models by Analytical Photogrammetry, Photogrammetric Record, 15(85): 65-76, ISBN 0031-868X.
+Littleworth, R.M. and Chandler, J.H., (1995). 3-D Computer Graphic Models by Analytical Photogrammetry, _The Photogrammetric Record_, 15(85): 65-76, ISBN 0031-868X.
 
 Richards, K., Arnold, N., Lane, S., Chandra, S., El-Hames, A., Mattikalli, N. and Chandler, J.H., (1995). Numerical Landscapes:  Static, Kinematic and Dynamic Process-Form Relationships, Zeitschrift fur Geomorphologie, 101: 201-220, ISSN 0044-2798.
 
@@ -158,9 +158,9 @@ Fryer, J.G., Chandler, J.H. and Cooper, M.A.R., (1994). On the Accuracy of Heigh
 Lane, S.N., Chandler, J.H. and Richards, K.S., (1994). Developments in Monitoring and Modelling Small Scale River Bed Topography, Earth Surface Processes and Landforms, 19: 349-368.
 Lane, S., Richards, K.S. and Chandler, J.H., (1993). Developments in photogrammetry; the geomorphological potential, Progress in Physical Geography, 17(3): 306-328.
 
-Chandler, J.H., (1993). Height estimation using video security imagery, Photogrammetric Record, 14(81): 459-468.
+Chandler, J.H., (1993). Height estimation using video security imagery, _The Photogrammetric Record_, 14(81): 459-468.
 
-Chandler, J.H. and Clark, J.S., (1992). The archival photogrammetric technique: further application and development, Photogrammetric Record, 14(80) : 241-247.
+Chandler, J.H. and Clark, J.S., (1992). The archival photogrammetric technique: further application and development, _The Photogrammetric Record_, 14(80) : 241-247.
 
 Chandler, J.H. and Cooper, M.A.R., (1991). Determining cylindrical parameters - an alternative approach, Land and Hydrographic Survey, September 1991: 5-7.
 
@@ -172,6 +172,6 @@ Chandler, J.H. and Cooper, M.A.R., (1989). [The extraction of positional data fr
 
 Chandler, J.H. and Cooper, M.A.R., (1988). Monitoring the development of landslides using archival photography and analytical photogrammetry, Land and Minerals Surveying, 6: 576-584.
 
-Chandler, J.H., Clark, J.S., Cooper, M.A.R. and Stirling, D., (1987). Analytical photogrammetry applied to Nepalese slope morphology, Photogrammetric Record, 12(70): 443-458.
+Chandler, J.H., Clark, J.S., Cooper, M.A.R. and Stirling, D., (1987). Analytical photogrammetry applied to Nepalese slope morphology, _The Photogrammetric Record_, 12(70): 443-458.
 
 
