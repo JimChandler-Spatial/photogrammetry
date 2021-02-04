@@ -7,7 +7,7 @@ Fawcett D, Blanco-Sacristán J, Benaud P. (2019). Two decades of digital photogr
 
 **Journal Papers**
 
-Parente, L., Chandler, J.H. and Dixon, N. (2021). [Automated Registration of SfM‐MVS Multitemporal Datasets Using Terrestrial and Oblique Aerial Images](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Parente_et_al_2020_PhotogrRecord_FINAL.pdf). _Photogrammetric Record_. https://doi.org/10.1111/phor.12346
+Parente, L., Chandler, J.H. and Dixon, N. (2021). [Automated Registration of SfM‐MVS Multitemporal Datasets Using Terrestrial and Oblique Aerial Images](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Parente_et_al_2020_PhotogrRecord_FINAL.pdf). _The Photogrammetric Record_. https://doi.org/10.1111/phor.12346
 
 Sanz‐Ablanedo, E., Chandler, J. H., Ballesteros‐Pérez, P., and Rodríguez‐Pérez, J. R. (2020). Reducing systematic dome errors in digital elevation models through better UAV flight design. _Earth Surface Processes and Landforms_, 45: 2134– 2147. https://doi.org/10.1002/esp.4871.
 
@@ -51,7 +51,7 @@ Chandler, J., and Fryer, J., (2013). [AutoDesk 123D Catch: How accurate is it?](
 
 Kirchhöfer, M.K., Chandler, J.H., Wackrow, R. and Bryan, P. (2012). [Direct Exterior Orientation Determination for a Low‐Cost Heritage Recording System](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Kirchhoefer_RecordPaper_repos.pdf). _Photogrammetric Record_, 27: 443-461. https://doi.org/10.1111/j.1477-9730.2012.00701.x
 
-Sanz‐Ablanedo, E., Chandler, J.H. and Wackrow, R. (2012). Parameterising Internal Camera Geometry with Focusing Distance. _The Photogrammetric Record_, 27: 210-226. https://doi.org/10.1111/j.1477-9730.2012.00677.x
+Sanz‐Ablanedo, E., Chandler, J.H. and Wackrow, R. (2012). Parameterising Internal Camera Geometry with Focusing Distance. _Photogrammetric Record_, 27: 210-226. https://doi.org/10.1111/j.1477-9730.2012.00677.x
 
 Gunawan and X. Sun and M. Sterling and K. Shiono and R. Tsubaki and P. Rameshwaran and D.W. Knight, J.H. Chandler, X. Tang and I. Fujita, (2012). The application of LS-PIV to a small irregular river for inbank and overbank flows, _Flow Measurement and Instrumentation_, 24: 1-12. https://www.sciencedirect.com/science/article/abs/pii/S095559861200012X
 
@@ -85,31 +85,29 @@ Wackrow, R. and Chandler, J.H. (2008), A convergent image configuration for DEM 
 
 J Fryer, H Mitchell, JH Chandler, (2007). [Applications of 3D measurement from images](https://www.whittlespublishing.com/Applications_of_3D_Measurement_from_Images), Whittles Publishing. pp312.
 
-Wackrow, R., Chandler, J.H. and Bryan, P. (2007), Geometric consistency and stability of consumer‐grade digital cameras for accurate spatial measurement. The Photogrammetric Record, 22: 121-134. https://doi.org/10.1111/j.1477-9730.2007.00436.x
+Wackrow, R., Chandler, J.H. and Bryan, P. (2007), Geometric consistency and stability of consumer‐grade digital cameras for accurate spatial measurement. _Photogrammetric Record_, 22: 121-134. https://doi.org/10.1111/j.1477-9730.2007.00436.x
 
-Chandler, J.H., Bryan, P. and Fryer, J.G. (2007), The Development And Application Of A Simple Methodology For Recording Rock Art Using Consumer‐Grade Digital Cameras. The Photogrammetric Record, 22: 10-21. https://doi.org/10.1111/j.1477-9730.2007.00414.x
+Chandler, J.H., Bryan, P. and Fryer, J.G. (2007), The Development And Application of a Simple Methodology for Recording Rock Art Using Consumer‐Grade Digital Cameras. _Photogrammetric Record_, 22: 10-21. https://doi.org/10.1111/j.1477-9730.2007.00414.x
 
 Walstra, J; Chandler, JH; Dixon, N; Dijkstra, TA, (2007). Aerial photography and digital photogrammetry for landslide monitoring, In: MAPPING HAZARDOUS TERRAIN USING REMOTE SENSING, Ed: Teeuw, RM. Geological Society Special Publication, 283: 53-6. DOI: 10.1144/SP283.5.
 
 J. Walstra, N. Dixon, J.H. Chandler; (2007). [Historical aerial photographs for landslide assessment: two case histories](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/JanQJEG.pdf). _Quarterly Journal of Engineering Geology and Hydrogeology_; 40(4): 315–332. doi: https://doi.org/10.1144/1470-9236/07-011.
 
-Chandler, J.H., Bryan, P. and Fryer, J.G. (2007), The Development And Application Of A Simple Methodology For Recording Rock Art Using Consumer‐Grade Digital Cameras. The Photogrammetric Record, 22: 10-21. https://doi.org/10.1111/j.1477-9730.2007.00414.x
-
 Chandler, J.H., Fryer, J.G. and Kniest, H.T., (2005). [Non-invasive 3D recording of aboriginal rock art using cost effective digital photogrammetry](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/PaperNon-invasive3DChandler-Fryer-Kniest.pdf), _Rock Art Research_, 22(2), 2005: 119-130.
 
 Chandler, J.H., Fryer, J.G. and Jack, A., (2005). [Metric capabilities of low-cost digital cameras for close range surface measurement](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/PRec2005_Chandler.pdf), _The Photogrammetric Record_, 20(109), 2005: 12-26.
 
-Lane, S.N. and Chandler, J.H., (2003), The Generation of high quality topographic data for hydrology and geomorphology: New data sources, new applications and new problems, Earth Surface Processes and Landforms, 28(3), 2003: 229-230, ISSN: 0197-9337.
+Lane, S.N. and Chandler, J.H., (2003), The Generation of high quality topographic data for hydrology and geomorphology: New data sources, new applications and new problems, _Earth Surface Processes and Landforms_, 28(3), 2003: 229-230, ISSN: 0197-9337.
 
-Buffin-Belanger, T., Reid, I., Rice, S., Chandler, J.H. and Lancaster, J., (2003). A casting procedure for reproducing coarse-grained sedimentary surfaces, Earth Surface Processes and Landforms, 28: 787-796, ISSN 0197 9337.
+Buffin-Belanger, T., Reid, I., Rice, S., Chandler, J.H. and Lancaster, J., (2003). A casting procedure for reproducing coarse-grained sedimentary surfaces, _Earth Surface Processes and Landforms_, 28: 787-796, ISSN 0197 9337.
 
 Chandler, J.H., Buffin-Belanger, T., Rice, S.P., Reid, I. and Graham, D.J., (2003). [The accuracy of a river bed moulding/casting system and the effectiveness of a low-cost digital camera for recording river bed fabric](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/The_accuracy_of_a_river_bed_casting_system_and_the.pdf), _Photogrammetric Record_, 18: 209-223, ISSN 0031 868X.
 
 Chandler, J.H., Ashmore, P., Paolo, C., Gooch, M. and Varkaris, F., (2002). [Monitoring river-channel change using terrestrial oblique digital imagery and automated digital photogrammetry](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/AAG2002_JC.pdf), _Annals of the Association of American Geographers_, 92(4): 631-644, ISSN 0004-5608.
 
-Butler, JB, Lane, SN, Chandler, J.H. and Porfiri, E, (2002). Through-water close range digital photogrammetry in flume and field environments, Photogrammetric Record, 17(99): 419-439, ISBN0031-868X.
+Butler, JB, Lane, SN, Chandler, J.H. and Porfiri, E, (2002). Through-water close range digital photogrammetry in flume and field environments, _The Photogrammetric Record_, 17(99): 419-439, ISBN0031-868X.
 
-Adams, J.C. and Chandler, J.H., (2002). Evaluation of LIDAR and medium scale photogrammetry for detecting soft-cliff coastal change, Photogrammetric Record: 405-418, ISBN0031-868X.
+Adams, J.C. and Chandler, J.H., (2002). Evaluation of LIDAR and medium scale photogrammetry for detecting soft-cliff coastal change, _The Photogrammetric Record_, 17: 405-418. https://doi.org/10.1111/0031-868X.00195
 
 Butler, J.B., Lane, S.N. and Chandler, J.H., (2001). Automated extraction of grain-size data from gravel surfaces using digital image processing for hydraulic research, Journal of Hydraulic Research, 391:1-11.
 
