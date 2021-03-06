@@ -6,7 +6,7 @@
 
 One of the successful outputs from working group V6 was to develop and make freely available ‘best-practice’ guidelines for non-expert users of:
 
-1. [Close range digital photogrammetry](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/photogrammetry-tips.pdf) (updated some years ago but much remains relevant);
+1. [Close range digital photogrammetry]( docs.google.com/viewer?url=https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/photogrammetry-tips.pdf) (updated some years ago but much remains relevant);
 
 2. [Terrestrial laser scanners](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/laser_scanning-tips.pdf).
 
