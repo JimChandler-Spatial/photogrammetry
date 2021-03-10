@@ -13,7 +13,6 @@ Primary aim of my research was to develop and exploit modern geomatics methods a
 |[**Published papers**](https://jimchandler-spatial.github.io/photogrammetry/OtherFiles/Biblio.md) _(some available to download!)_|
 
 ![](https://jimchandler-spatial.github.io/photogrammetry//Images/jim_Sunwapta.JPG)
-![](https://jimchandler-spatial.github.io/photogrammetry/Images/emu_cave.jpg)
 
 ### Various Projects
 1. Monitoring landform changes, initially at The [Black Ven landslide complex](https://htmlpreview.github.io/?https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/CHCC/index.htm), the largest coastal landslide complex in Europe!
@@ -21,4 +20,5 @@ Primary aim of my research was to develop and exploit modern geomatics methods a
 3. ISPRS Working Group V5/6, (2008-2016) and ["Tips for close range photogrammetry"](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/ISPRSV5/index.md).
 4. Change detection
 
+![](https://jimchandler-spatial.github.io/photogrammetry/Images/emu_cave.jpg)
 _Updated: February, 2021_
