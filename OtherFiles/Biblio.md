@@ -23,7 +23,7 @@ Ferreira, E, Chandler, J, Wackrow, R, Shiono, K. (2017). Automated extraction of
 
 Sieberth, T., Wackrow, R. & Chandler, JH. (2016). Automatic detection of blurred images in UAV image sets. ISPRS Journal of Photogrammetry and Remote Sensing, 122:1–16. Available at: http://dx.doi.org/10.1016/j.isprsjprs.2016.09.010.
 
-Chandler, J.H., and Buckley, S. (2016). [Structure from motion (SFM) photogrammetry vs terrestrial laser scanning](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/AGI_SfM-v-TLS(3).pdf), _The Geoscience Handbook 2016_, http://rock.geosociety.org/Store/detail.aspx?id=DATASHEETS.
+Chandler, J.H., and Buckley, S. (2016). [Structure from motion (SFM) photogrammetry vs terrestrial laser scanning](https://jimchandler-spatial.github.io/photogrammetry/OtherFiles/paper_pdfs/AGI_SfM-v-TLS(3).pdf), _The Geoscience Handbook 2016_, http://rock.geosociety.org/Store/detail.aspx?id=DATASHEETS.
 
 McCarthy, D.M.J., Chandler, J.H. & Palmeri, A. (2016). Monitoring 3D Vibrations in Structures using High-resolution Blurred Imagery. _The Photogrammetric Record_, 31(155):304–324. Available at: http://doi.wiley.com/10.1111/phor.12155.
 
@@ -31,9 +31,9 @@ Wackrow, R, Ferreira, E, Chandler, JH, Shiono, K. (2015). Camera calibration for
 
 Micheletti, N, Lane, SN, Chandler, JH (2015) Application of archival aerial photogrammetry to quantify climate forcing of alpine landscapes, _Photogrammetric Record_, 30(150):143-165, ISSN: 0031-868X. DOI:10.1111/phor.12099.
 
-Micheletti, N, Chandler, JH, Lane, SN (2015) [Investigating the geomorphological potential of freely available and accessible structure-from-motion photogrammetry using a smartphone](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Micheletti_ESPL2014_accepted.pdf), _Earth Surface Processes and Landforms_, 40(4):473-486, ISSN: 0197-9337. DOI: 10.1002/esp.3648.
+Micheletti, N, Chandler, JH, Lane, SN (2015) [Investigating the geomorphological potential of freely available and accessible structure-from-motion photogrammetry using a smartphone](https://jimchandler-spatial.github.io/photogrammetry/OtherFiles/paper_pdfs/Micheletti_ESPL2014_accepted.pdf), _Earth Surface Processes and Landforms_, 40(4):473-486, ISSN: 0197-9337. DOI: 10.1002/esp.3648.
 
-Micheletti, N, Chandler, JH, Lane, S (2015) [Structure from motion (SFM) photogrammetry](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Micheletti_et_al_SfM_GeomTech.pdf), _British Society for Geomorphology, Special Techniques_ ISSN: 2047-0371.
+Micheletti, N, Chandler, JH, Lane, S (2015) [Structure from motion (SFM) photogrammetry](https://jimchandler-spatial.github.io/photogrammetry/OtherFiles/paper_pdfs/Micheletti_et_al_SfM_GeomTech.pdf), _British Society for Geomorphology, Special Techniques_ ISSN: 2047-0371.
 
 Sieberth, T, Wackrow, R, Chandler, JH (2014) Motion Blur Disturbs - The Influence Of Motion-Blurred Images in Photogrammetry, _Photogrammetric Record_, 29(148),:434-453, ISSN: 0031-868X. DOI:10.1111/phor.12082.
 
@@ -47,7 +47,7 @@ Montreuil, A-L., Bullard, J.E., Chandler, J.H., (2013). Detecting seasonal varia
 
 McCarthy, D. M. J., Chandler, J. H., & Palmeri, A. (2013). Monitoring Dynamic Structural Tests Using Image Deblurring Techniques. _Key Engineering Materials_, 569–570, 932–939. https://doi.org/10.4028/www.scientific.net/kem.569-570.932
 
-Chandler, J., and Fryer, J., (2013). [AutoDesk 123D Catch: How accurate is it?](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Chandler%2BFryer-2013.pdf) _Geomatics World_, 2(21): 28-30.
+Chandler, J., and Fryer, J., (2013). [AutoDesk 123D Catch: How accurate is it?](https://jimchandler-spatial.github.io/photogrammetry/OtherFiles/paper_pdfs/Chandler%2BFryer-2013.pdf) _Geomatics World_, 2(21): 28-30.
 
 Kirchhöfer, M.K., Chandler, J.H., Wackrow, R. and Bryan, P. (2012). [Direct Exterior Orientation Determination for a Low‐Cost Heritage Recording System](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Kirchhoefer_RecordPaper_repos.pdf). _Photogrammetric Record_, 27: 443-461. https://doi.org/10.1111/j.1477-9730.2012.00701.x
 
