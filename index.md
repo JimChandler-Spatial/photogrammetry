@@ -12,8 +12,8 @@ Primary aim of my research was to develop and exploit modern geomatics methods a
 |[**Orcid**](https://orcid.org/0000-0003-3588-0223)
 |[**Published papers**](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/Biblio.md) _(some available to download!)_|
 
-![](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/Images/jim_Sunwapta.JPG)
-![](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/Images/emu_cave.jpg)
+![](https://jimchandler-spatial.github.io/photogrammetry//Images/jim_Sunwapta.JPG)
+![](https://https://jimchandler-spatial.github.io/photogrammetry/Images/emu_cave.jpg)
 
 ### Various Projects
 1. Monitoring landform changes, initially at The [Black Ven landslide complex](https://htmlpreview.github.io/?https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/CHCC/index.htm), the largest coastal landslide complex in Europe!
