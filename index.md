@@ -16,7 +16,7 @@ Primary aim of my research was to develop and exploit modern geomatics methods a
 
 ### Various Projects
 1. Monitoring landform changes, initially at The [Black Ven landslide complex](https://htmlpreview.github.io/?https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/CHCC/index.htm), the largest coastal landslide complex in Europe!
-2. [Rock art and heritage recording](https://jimchandler-spatial.github.io/photogrammetry/RockArt/index.md) ![](https://jimchandler-spatial.github.io/photogrammetry/Images/emu_cave.jpg)
+2. [Rock art and heritage recording](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/RockArt/index.md) ![](https://jimchandler-spatial.github.io/photogrammetry/Images/emu_cave.jpg)
 3. ISPRS Working Group V5/6, (2008-2016) and ["Tips for close range photogrammetry"](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/ISPRSV5/index.md).
 4. Change detection
 
