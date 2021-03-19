@@ -49,7 +49,7 @@ McCarthy, D. M. J., Chandler, J. H., & Palmeri, A. (2013). Monitoring Dynamic St
 
 Chandler, J., and Fryer, J., (2013). [AutoDesk 123D Catch: How accurate is it?](https://jimchandler-spatial.github.io/photogrammetry/OtherFiles/paper_pdfs/Chandler%2BFryer-2013.pdf) _Geomatics World_, 2(21): 28-30.
 
-Kirchhöfer, M.K., Chandler, J.H., Wackrow, R. and Bryan, P. (2012). [Direct Exterior Orientation Determination for a Low‐Cost Heritage Recording System](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Kirchhoefer_RecordPaper_repos.pdf). _Photogrammetric Record_, 27: 443-461. https://doi.org/10.1111/j.1477-9730.2012.00701.x
+Kirchhöfer, M.K., Chandler, J.H., Wackrow, R. and Bryan, P. (2012). [Direct Exterior Orientation Determination for a Low‐Cost Heritage Recording System](https://jimchandler-spatial.github.io/photogrammetry/OtherFiles/paper_pdfs/Kirchhoefer_RecordPaper_repos.pdf). _Photogrammetric Record_, 27: 443-461. https://doi.org/10.1111/j.1477-9730.2012.00701.x
 
 Sanz‐Ablanedo, E., Chandler, J.H. and Wackrow, R. (2012). Parameterising Internal Camera Geometry with Focusing Distance. _Photogrammetric Record_, 27: 210-226. https://doi.org/10.1111/j.1477-9730.2012.00677.x
 
@@ -57,7 +57,7 @@ Gunawan and X. Sun and M. Sterling and K. Shiono and R. Tsubaki and P. Rameshwar
 
 Wackrow, R. and Chandler, J.H. (2011). Minimising systematic error surfaces in digital elevation models using oblique convergent imagery. _The Photogrammetric Record_, 26: 16-31. https://doi.org/10.1111/j.1477-9730.2011.00623.x
 
-Walstra, J., Chandler, J.H., Dixon, N. and Wackrow, R. (2011). [Evaluation of the controls affecting the quality of spatial data derived from historical aerial photographs](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/ESPL_Walstra2011.pdf). _Earth Surface Processes and Landforms_, 36: 853-863. https://doi.org/10.1002/esp.2111
+Walstra, J., Chandler, J.H., Dixon, N. and Wackrow, R. (2011). [Evaluation of the controls affecting the quality of spatial data derived from historical aerial photographs](https://jimchandler-spatial.github.io/photogrammetry/OtherFiles/paper_pdfs/ESPL_Walstra2011.pdf). _Earth Surface Processes and Landforms_, 36: 853-863. https://doi.org/10.1002/esp.2111
 
 Heng, B. C. P., Sander, G. C., Armstrong, A., Quinton, J. N., Chandler, J. H., and Scott, C. F. (2011). Modeling the dynamics of soil erosion and size‐selective sediment transport over nonuniform topography in flume‐scale experiments, _Water Resources Research_, 47, W02513, https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2010WR009375
 
@@ -69,11 +69,11 @@ Shiono, L., Spooner, J., Chan, T., Rameshwaren, P. and Chandler, J.H. (2010). Fl
 
 Peter Heng, B.C., Chandler, J.H. and Armstrong, A. (2010), Applying close range digital photogrammetry in soil erosion studies. _The Photogrammetric Record_, 25: 240-265. https://doi.org/10.1111/j.1477-9730.2010.00584.x
 
-K. Shiono, Tony L. Chan, Jake Spooner, P. Rameshwaran & J. H. Chandler (2010). [The effect of floodplain roughness on flow structures, bedforms and sediment transport rates in meandering channels with overbank flows: Part II](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/HydraulicResearch2.pdf), _Journal of Hydraulic Research_, 47:1, 20-28, DOI: 10.3826/jhr.2009.2944-II
+K. Shiono, Tony L. Chan, Jake Spooner, P. Rameshwaran & J. H. Chandler (2010). [The effect of floodplain roughness on flow structures, bedforms and sediment transport rates in meandering channels with overbank flows: Part II](https://jimchandler-spatial.github.io/photogrammetry/OtherFiles/paper_pdfs/HydraulicResearch2.pdf), _Journal of Hydraulic Research_, 47:1, 20-28, DOI: 10.3826/jhr.2009.2944-II
 
-K. Shiono, Tony L. Chan, Jake Spooner, P. Rameshwaran & J. H. Chandler (2010). [The effect of floodplain roughness on flow structures, bedforms and sediment transport rates in meandering channels with overbank flows: Part I](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/HydraulicResearch1.pdf), _Journal of Hydraulic Research_, 47:1, 5-19, DOI: 10.3826/jhr.2009.2944-I
+K. Shiono, Tony L. Chan, Jake Spooner, P. Rameshwaran & J. H. Chandler (2010). [The effect of floodplain roughness on flow structures, bedforms and sediment transport rates in meandering channels with overbank flows: Part I](https://jimchandler-spatial.github.io/photogrammetry/OtherFiles/paper_pdfs/HydraulicResearch1.pdf), _Journal of Hydraulic Research_, 47:1, 5-19, DOI: 10.3826/jhr.2009.2944-I
 
-Smith, M.J., Chandler, J. and Rose, J. (2009), [High spatial resolution data acquisition for the geosciences: kite aerial photography](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Smith_ESPL_repos.pdf). _Earth Surface Processes and Landforms_, 34: 155-161. https://doi.org/10.1002/esp.1702
+Smith, M.J., Chandler, J. and Rose, J. (2009), [High spatial resolution data acquisition for the geosciences: kite aerial photography](https://jimchandler-spatial.github.io/photogrammetry/OtherFiles/paper_pdfs/Smith_ESPL_repos.pdf). _Earth Surface Processes and Landforms_, 34: 155-161. https://doi.org/10.1002/esp.1702
 
 S. Shair, J. H. Chandler, V. J. GonzÁlez-Villela, R. M. Parkin and M. R. Jackson, (2008). The Use of Aerial Images and GPS for Mobile Robot Waypoint Navigation, IEEE/ASME Transactions on Mechatronics, 13(6): 692-699. doi: 10.1109/TMECH.2008.2005197.
 
@@ -91,11 +91,11 @@ Chandler, J.H., Bryan, P. and Fryer, J.G. (2007), The Development And Applicatio
 
 Walstra, J; Chandler, JH; Dixon, N; Dijkstra, TA, (2007). Aerial photography and digital photogrammetry for landslide monitoring, In: MAPPING HAZARDOUS TERRAIN USING REMOTE SENSING, Ed: Teeuw, RM. Geological Society Special Publication, 283: 53-6. DOI: 10.1144/SP283.5.
 
-J. Walstra, N. Dixon, J.H. Chandler; (2007). [Historical aerial photographs for landslide assessment: two case histories](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/JanQJEG.pdf). _Quarterly Journal of Engineering Geology and Hydrogeology_; 40(4): 315–332. doi: https://doi.org/10.1144/1470-9236/07-011.
+J. Walstra, N. Dixon, J.H. Chandler; (2007). [Historical aerial photographs for landslide assessment: two case histories](https://jimchandler-spatial.github.io/photogrammetry/OtherFiles/paper_pdfs/JanQJEG.pdf). _Quarterly Journal of Engineering Geology and Hydrogeology_; 40(4): 315–332. doi: https://doi.org/10.1144/1470-9236/07-011.
 
-Chandler, J.H., Fryer, J.G. and Kniest, H.T., (2005). [Non-invasive 3D recording of aboriginal rock art using cost effective digital photogrammetry](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/PaperNon-invasive3DChandler-Fryer-Kniest.pdf), _Rock Art Research_, 22(2), 2005: 119-130.
+Chandler, J.H., Fryer, J.G. and Kniest, H.T., (2005). [Non-invasive 3D recording of aboriginal rock art using cost effective digital photogrammetry](https://jimchandler-spatial.github.io/photogrammetry/OtherFiles/paper_pdfs/PaperNon-invasive3DChandler-Fryer-Kniest.pdf), _Rock Art Research_, 22(2), 2005: 119-130.
 
-Chandler, J.H., Fryer, J.G. and Jack, A., (2005). [Metric capabilities of low-cost digital cameras for close range surface measurement](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/PRec2005_Chandler.pdf), _The Photogrammetric Record_, 20(109), 2005: 12-26.
+Chandler, J.H., Fryer, J.G. and Jack, A., (2005). [Metric capabilities of low-cost digital cameras for close range surface measurement](https://jimchandler-spatial.github.io/photogrammetry/OtherFiles/paper_pdfs/PRec2005_Chandler.pdf), _The Photogrammetric Record_, 20(109), 2005: 12-26.
 
 Lane, S.N. and Chandler, J.H., (2003), The Generation of high quality topographic data for hydrology and geomorphology: New data sources, new applications and new problems, _Earth Surface Processes and Landforms_, 28(3), 2003: 229-230, ISSN: 0197-9337.
 
@@ -103,7 +103,7 @@ Buffin-Belanger, T., Reid, I., Rice, S., Chandler, J.H. and Lancaster, J., (2003
 
 Chandler, J.H., Buffin-Belanger, T., Rice, S.P., Reid, I. and Graham, D.J., (2003). [The accuracy of a river bed moulding/casting system and the effectiveness of a low-cost digital camera for recording river bed fabric](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/The_accuracy_of_a_river_bed_casting_system_and_the.pdf), _The Photogrammetric Record_, 18: 209-223, ISSN 0031 868X.
 
-Chandler, J.H., Ashmore, P., Paolo, C., Gooch, M. and Varkaris, F., (2002). [Monitoring river-channel change using terrestrial oblique digital imagery and automated digital photogrammetry](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/AAG2002_JC.pdf), _Annals of the Association of American Geographers_, 92(4): 631-644, ISSN 0004-5608.
+Chandler, J.H., Ashmore, P., Paolo, C., Gooch, M. and Varkaris, F., (2002). [Monitoring river-channel change using terrestrial oblique digital imagery and automated digital photogrammetry](https://jimchandler-spatial.github.io/photogrammetry/OtherFiles/paper_pdfs/AAG2002_JC.pdf), _Annals of the Association of American Geographers_, 92(4): 631-644, ISSN 0004-5608.
 
 Butler, JB, Lane, SN, Chandler, J.H. and Porfiri, E, (2002). Through-water close range digital photogrammetry in flume and field environments, _The Photogrammetric Record_, 17(99): 419-439, ISBN0031-868X.
 
