@@ -170,7 +170,7 @@ Chandler, J.H. and Moore, R., (1989). [Analytical photogrammetry: a method for m
 
 Chandler, J.H. and Cooper, M.A.R., (1989). [The extraction of positional data from historical photographs and their application in geomorphology](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/ChandlerCooper-1989-TheExtractionofPositionalDatafromHistoricalPhotographsandtheirApplicationtoGeomorphology.pdf), _Photogrammetric Record_, 13(73): 69-78.
 
-Chandler, J.H. and Cooper, M.A.R., (1988). Monitoring the development of landslides using archival photography and analytical photogrammetry, Land and Minerals Surveying, 6: 576-584.
+Chandler, J.H. and Cooper, M.A.R., (1988). [Monitoring the development of landslides using archival photography and analytical photogrammetry](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Jim%20Chandler%20Mike%20Cooper%20-%201988%20-%20LAMs88.pdf.pdf), _Land and Minerals Surveying_, 6: 576-584.
 
 Chandler, J.H., Clark, J.S., Cooper, M.A.R. and Stirling, D., (1987). Analytical photogrammetry applied to Nepalese slope morphology, _The Photogrammetric Record_, 12(70): 443-458.
 
