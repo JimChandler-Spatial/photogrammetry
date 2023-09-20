@@ -51,7 +51,7 @@ Chandler, J., and Fryer, J., (2013). [AutoDesk 123D Catch: How accurate is it?](
 
 Kirchhöfer, M.K., Chandler, J.H., Wackrow, R. and Bryan, P. (2012). [Direct Exterior Orientation Determination for a Low‐Cost Heritage Recording System](https://jimchandler-spatial.github.io/photogrammetry/OtherFiles/paper_pdfs/Kirchhoefer_RecordPaper_repos.pdf). _Photogrammetric Record_, 27: 443-461. https://doi.org/10.1111/j.1477-9730.2012.00701.x
 
-Sanz‐Ablanedo, E., Chandler, J.H. and Wackrow, R. (2012). Parameterising Internal Camera Geometry with Focusing Distance. _Photogrammetric Record_, 27: 210-226. https://doi.org/10.1111/j.1477-9730.2012.00677.x
+Sanz‐Ablanedo, E., Chandler, J.H. and Wackrow, R. (2012). [Parameterising Internal Camera Geometry with Focusing Distance.](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Ablanedo%2BChandler2012.pdf) _Photogrammetric Record_, 27: 210-226. https://doi.org/10.1111/j.1477-9730.2012.00677.x
 
 Gunawan and X. Sun and M. Sterling and K. Shiono and R. Tsubaki and P. Rameshwaran and D.W. Knight, J.H. Chandler, X. Tang and I. Fujita, (2012). The application of LS-PIV to a small irregular river for inbank and overbank flows, _Flow Measurement and Instrumentation_, 24: 1-12. https://www.sciencedirect.com/science/article/abs/pii/S095559861200012X
 
