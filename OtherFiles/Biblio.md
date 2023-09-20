@@ -119,7 +119,7 @@ Gooch, M.J. and Chandler, J.H., (2001). Failure prediction in automatically gene
 
 Chandler, J.H., Shiono, K., Rameshwaren, P. and Lane, S.N., (2001). Measuring flume surfaces for hydraulics research using a Kodak DCS460, _The Photogrammetric Record_, 17(97): 39-61, ISBN 0031 868X.
 
-Lane, S.N., Chandler, J.H. and Porfiri, K., (2001). Monitoring river channel and flume surfaces with digital photogrammetry, Journal of Hydraulic Engineering, 127(10):871-877, ISBN0733-9429.
+Lane, S.N., Chandler, J.H. and Porfiri, K., (2001). [Monitoring river channel and flume surfaces with digital photogrammetry](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Lane%2BChandler%2BPorfiri2001.pdf), _Journal of Hydraulic Engineering_, 127(10):871-877, ISBN0733-9429.
 
 Chandler, J.H., (2000). What is ISI and why is it important?, Survey Review, 35(277): 505-508, ISSN 0039 6265.
 
