@@ -87,7 +87,7 @@ J Fryer, H Mitchell, JH Chandler, (2007). [Applications of 3D measurement from i
 
 Wackrow, R., Chandler, J.H. and Bryan, P. (2007), Geometric consistency and stability of consumer‐grade digital cameras for accurate spatial measurement. _The Photogrammetric Record_, 22: 121-134. https://doi.org/10.1111/j.1477-9730.2007.00436.x
 
-Chandler, J.H., Bryan, P. and Fryer, J.G. (2007), The Development And Application of a Simple Methodology for Recording Rock Art Using Consumer‐Grade Digital Cameras. _The Photogrammetric Record_, 22: 10-21. https://doi.org/10.1111/j.1477-9730.2007.00414.x
+Chandler, J.H., Bryan, P. and Fryer, J.G. (2007), [The Development And Application of a Simple Methodology for Recording Rock Art Using Consumer‐Grade Digital Cameras.](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Chandler%2C%20Bryan%20-%202007%20-%20THE%20DEVELOPMENT%20AND%20APPLICATION%20OF%20A%20SIMPLE%20METHODOLOGY%20FOR%20RECORDING%20ROCK%20ART%20USING%20CONSUMER-GRADE%20DIGITAL%20CAM.pdf) _The Photogrammetric Record_, 22: 10-21. https://doi.org/10.1111/j.1477-9730.2007.00414.x
 
 Walstra, J; Chandler, JH; Dixon, N; Dijkstra, TA, (2007). Aerial photography and digital photogrammetry for landslide monitoring, In: MAPPING HAZARDOUS TERRAIN USING REMOTE SENSING, Ed: Teeuw, RM. Geological Society Special Publication, 283: 53-6. DOI: 10.1144/SP283.5.
 
