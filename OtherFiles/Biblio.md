@@ -67,7 +67,7 @@ Xin Sun, Koji Shiono, Ponnambalam Rameshwaran & Jim H. Chandler (2010) Modelling
 
 Shiono, L., Spooner, J., Chan, T., Rameshwaren, P. and Chandler, J.H. (2010). Flow characteristics in meandering channels with non-mobile and mobile beds for overbank flows, _Journal of Hydraulic Research_, 46(1): 113-132. https://doi.org/10.1080/00221686.2008.9521848
 
-Peter Heng, B.C., Chandler, J.H. and Armstrong, A. (2010), Applying close range digital photogrammetry in soil erosion studies. _The Photogrammetric Record_, 25: 240-265. https://doi.org/10.1111/j.1477-9730.2010.00584.x
+Peter Heng, B.C., Chandler, J.H. and Armstrong, A. (2010), [Applying close range digital photogrammetry in soil erosion studies.](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Heng%2BChandler2010.pdf), _The Photogrammetric Record_, 25: 240-265. https://doi.org/10.1111/j.1477-9730.2010.00584.x
 
 K. Shiono, Tony L. Chan, Jake Spooner, P. Rameshwaran & J. H. Chandler (2010). [The effect of floodplain roughness on flow structures, bedforms and sediment transport rates in meandering channels with overbank flows: Part II](https://jimchandler-spatial.github.io/photogrammetry/OtherFiles/paper_pdfs/HydraulicResearch2.pdf), _Journal of Hydraulic Research_, 47:1, 20-28, DOI: 10.3826/jhr.2009.2944-II
 
