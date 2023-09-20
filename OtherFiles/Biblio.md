@@ -153,7 +153,7 @@ Richards, K., Arnold, N., Lane, S., Chandra, S., El-Hames, A., Mattikalli, N. an
 
 Lane, S.N., Richards, K.S. and Chandler, J.H., (1994). Applications of Distributed Sensitivity Analysis to a Model of Turbulent Open Channel Flow in a Natural River Channel, Proceedings of the Royal Society of London, pp 49-63, ISSN 0080-4630.
 
-Fryer, J.G., Chandler, J.H. and Cooper, M.A.R., (1994). On the Accuracy of Heighting from Aerial Photographs and Maps:  Implications to Process Modellers, Earth Surface Processes and Landforms, 19: 577-583, ISSN 0197-9337.
+Fryer, J.G., Chandler, J.H. and Cooper, M.A.R., (1994). [On the Accuracy of Heighting from Aerial Photographs and Maps:  Implications to Process Modellers](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Fryer%2BChandler%2BCooper1994.pdf), _Earth Surface Processes and Landforms_, 19: 577-583, ISSN 0197-9337.
 
 Lane, S.N., Chandler, J.H. and Richards, K.S., (1994). Developments in Monitoring and Modelling Small Scale River Bed Topography, Earth Surface Processes and Landforms, 19: 349-368.
 Lane, S., Richards, K.S. and Chandler, J.H., (1993). Developments in photogrammetry; the geomorphological potential, Progress in Physical Geography, 17(3): 306-328.
