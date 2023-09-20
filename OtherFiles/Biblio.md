@@ -149,22 +149,22 @@ Chandler, J.H. and Brunsden, D., (1995). Steady State Behaviour of the Black Ven
 
 Littleworth, R.M. and Chandler, J.H., (1995). 3-D Computer Graphic Models by Analytical Photogrammetry, _The Photogrammetric Record_, 15(85): 65-76, ISBN 0031-868X.
 
-Richards, K., Arnold, N., Lane, S., Chandra, S., El-Hames, A., Mattikalli, N. and Chandler, J.H., (1995). Numerical Landscapes:  Static, Kinematic and Dynamic Process-Form Relationships, Zeitschrift fur Geomorphologie, 101: 201-220, ISSN 0044-2798.
+Richards, K., Arnold, N., Lane, S., Chandra, S., El-Hames, A., Mattikalli, N. and Chandler, J.H., (1995). Numerical Landscapes:  Static, Kinematic and Dynamic Process-Form Relationships, _Zeitschrift fur Geomorphologie_, 101: 201-220, ISSN 0044-2798.
 
-Lane, S.N., Richards, K.S. and Chandler, J.H., (1994). Applications of Distributed Sensitivity Analysis to a Model of Turbulent Open Channel Flow in a Natural River Channel, Proceedings of the Royal Society of London, pp 49-63, ISSN 0080-4630.
+Lane, S.N., Richards, K.S. and Chandler, J.H., (1994). Applications of Distributed Sensitivity Analysis to a Model of Turbulent Open Channel Flow in a Natural River Channel, _Proceedings of the Royal Society of London_, pp 49-63, ISSN 0080-4630.
 
 Fryer, J.G., Chandler, J.H. and Cooper, M.A.R., (1994). [On the Accuracy of Heighting from Aerial Photographs and Maps:  Implications to Process Modellers](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Fryer%2BChandler%2BCooper1994.pdf), _Earth Surface Processes and Landforms_, 19: 577-583, ISSN 0197-9337.
 
-Lane, S.N., Chandler, J.H. and Richards, K.S., (1994). Developments in Monitoring and Modelling Small Scale River Bed Topography, Earth Surface Processes and Landforms, 19: 349-368.
-Lane, S., Richards, K.S. and Chandler, J.H., (1993). Developments in photogrammetry; the geomorphological potential, Progress in Physical Geography, 17(3): 306-328.
+Lane, S.N., Chandler, J.H. and Richards, K.S., (1994). Developments in Monitoring and Modelling Small Scale River Bed Topography, _Earth Surface Processes and Landforms_, 19: 349-368.
+Lane, S., Richards, K.S. and Chandler, J.H., (1993). Developments in photogrammetry; the geomorphological potential, _Progress in Physical Geography_, 17(3): 306-328.
 
 Chandler, J.H., (1993). Height estimation using video security imagery, _The Photogrammetric Record_, 14(81): 459-468.
 
 Chandler, J.H. and Clark, J.S., (1992). The archival photogrammetric technique: further application and development, _The Photogrammetric Record_, 14(80) : 241-247.
 
-Chandler, J.H. and Cooper, M.A.R., (1991). Determining cylindrical parameters - an alternative approach, Land and Hydrographic Survey, September 1991: 5-7.
+Chandler, J.H. and Cooper, M.A.R., (1991). Determining cylindrical parameters - an alternative approach, _Land and Hydrographic Survey_, September 1991: 5-7.
 
-Chandler, J.H., Cooper, M.A.R. and Robson, S., (1990). Analytical aspects of small format surveys using oblique aerial surveys, Journal of Photographic Science, 37: 235-240.
+Chandler, J.H., Cooper, M.A.R. and Robson, S., (1990). Analytical aspects of small format surveys using oblique aerial surveys, _Journal of Photographic Science_, 37: 235-240.
 
 Chandler, J.H. and Moore, R., (1989). [Analytical photogrammetry: a method for monitoring slope instability](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Chandler%2BMoore_1989.pdf), _Quarterly Journal Engineering Geology_, 22 : 97-110.
 
