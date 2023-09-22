@@ -109,7 +109,7 @@ Butler, JB, Lane, SN, Chandler, J.H. and Porfiri, E, (2002). Through-water close
 
 Adams, J.C. and Chandler, J.H., (2002). [Evaluation of LIDAR and medium scale photogrammetry for detecting soft-cliff coastal change](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Adams%2BChandler2002.pdf), _The Photogrammetric Record_, 17: 405-418. https://doi.org/10.1111/0031-868X.00195
 
-Butler, J.B., Lane, S.N. and Chandler, J.H., (2001). Automated extraction of grain-size data from gravel surfaces using digital image processing for hydraulic research, Journal of Hydraulic Research, 391:1-11.
+Butler, J.B., Lane, S.N. and Chandler, J.H., (2001). [Automated extraction of grain-size data from gravel surfaces using digital image processing for hydraulic research](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Butler%2C%20Lane%2C%20Chandler2001-GrainSize.pdf), _Journal of Hydraulic Research_, 391:1-11.
 
 Butler, J.B., Lane, S.N. and Chandler, J.H., (2001). Characterization of the Structure of River-Bed gravels using two-dimensional fractal analysis, Mathematical Geology, 333: 301-330, ISBN 0882-8121.
 
