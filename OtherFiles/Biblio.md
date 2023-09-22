@@ -137,7 +137,7 @@ Lane, S.N., Biron, P.M., Bradbrook, K.F., Butler, J.B., Chandler, J.H., Crowell,
 
 Pyle, C.J., Richards, K.S. and Chandler, J.H., (1997). Digital Photogrammetric Monitoring of River Bank Erosion, _The Photogrammetric Record_, 15(89): 753-763, ISSN 0031-868X.
 
-Chandler, J.H. and Padfield, C.J., (1996). Automated Digital Photogrammetry on a Shoestring, _The Photogrammetric Record_, 15(88): 545-559.
+Chandler, J.H. and Padfield, C.J., (1996). [Automated Digital Photogrammetry on a Shoestring](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Chandler_et_al-1996-The_Photogrammetric_Record.pdf), _The Photogrammetric Record_, 15(88): 545-559.
 
 Lane, S.N., Richards, K.S. and Chandler, J.H., (1996). Discharge and Sediment Supply Controls on Errosion and Deposition in a Dynamic Alluvial Channel, Geomorphology, 15: 1-15, ISSN 0169-555X.
 
