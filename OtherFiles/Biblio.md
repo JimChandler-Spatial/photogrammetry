@@ -105,7 +105,7 @@ Chandler, J.H., Buffin-Belanger, T., Rice, S.P., Reid, I. and Graham, D.J., (200
 
 Chandler, J.H., Ashmore, P., Paolo, C., Gooch, M. and Varkaris, F., (2002). [Monitoring river-channel change using terrestrial oblique digital imagery and automated digital photogrammetry](https://jimchandler-spatial.github.io/photogrammetry/OtherFiles/paper_pdfs/AAG2002_JC.pdf), _Annals of the Association of American Geographers_, 92(4): 631-644, ISSN 0004-5608.
 
-Butler, JB, Lane, SN, Chandler, J.H. and Porfiri, E, (2002). Through-water close range digital photogrammetry in flume and field environments, _The Photogrammetric Record_, 17(99): 419-439, ISBN0031-868X.
+Butler, JB, Lane, SN, Chandler, J.H. and Porfiri, E, (2002). [Through-water close range digital photogrammetry in flume and field environments](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Butler_et_al-2002-The_Photogrammetric_Record.pdf), _The Photogrammetric Record_, 17(99): 419-439, ISBN0031-868X.
 
 Adams, J.C. and Chandler, J.H., (2002). [Evaluation of LIDAR and medium scale photogrammetry for detecting soft-cliff coastal change](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Adams%2BChandler2002.pdf), _The Photogrammetric Record_, 17: 405-418. https://doi.org/10.1111/0031-868X.00195
 
