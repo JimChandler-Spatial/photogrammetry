@@ -131,7 +131,7 @@ Gooch, M.J., Chandler, J.H. and Stojic, M., (1999). Accuracy assessment of digit
 
 Stojic, M., Chandler, J.H., Ashmore, P. and Luce, J., (1998). [The Assessment of Sediment Transport Rates by Automated Digital Photogrammetry](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/The_assessment_of_sediment_transport_rates_by_auto.pdf), _Photogrammetric Engineering and Remote Sensing_, 645: 387-395, ISSN 0099-1112.
 
-Butler, J.B., Lane, S.N. and Chandler, J.H., (1998). Assessment of DEM quality for characterizing surface roughness using digital close range photogrammetry, _The Photogrammetric Record_, 16(92): 271-291, ISBN 0031 868 X.
+Butler, J.B., Lane, S.N. and Chandler, J.H., (1998). [Assessment of DEM quality for characterizing surface roughness using digital close range photogrammetry](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Butler_et_al-1998-The_Photogrammetric_Record.pdf), _The Photogrammetric Record_, 16(92): 271-291, ISBN 0031 868 X.
 
 Lane, S.N., Biron, P.M., Bradbrook, K.F., Butler, J.B., Chandler, J.H., Crowell, M.D., McLelland, S.J., Richards, K.S. and Roy, A.G., (1998). Integrated three-dimensional measurements of river channel topography and flow process using acoustic doppler velocimetry, Earth Surface Processes and Landforms, 23: 1247-1267, ISBN 0197 9337.
 
