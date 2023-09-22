@@ -145,7 +145,7 @@ Chandler, J.H., Littleworth, R.M. and Van Havere, W., (1995). 3D Plant Models de
 
 Lane, S.N., Richards, K.S. and Chandler, J.H., (1995). Morphological Estimation of The Time-Integrated Bed-Load Transport Rate, Water Resources Research, 31(3): 761-772.
 
-Chandler, J.H. and Brunsden, D., (1995). Steady State Behaviour of the Black Ven Mudslide: The Application of Archical Analytical Photogrammetry to Studies of Landform Change, Earth Surface Processes and Landforms, 20: 255-275, ISBN 0197-9337.
+Chandler, J.H. and Brunsden, D., (1995). [Steady State Behaviour of the Black Ven Mudslide: The Application of Archical Analytical Photogrammetry to Studies of Landform Change](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Chandler%2BBrunsden1995-Earth_Surface_Processes_and_Landforms.pdf), _Earth Surface Processes and Landforms_, 20: 255-275, ISBN 0197-9337.
 
 Littleworth, R.M. and Chandler, J.H., (1995). 3-D Computer Graphic Models by Analytical Photogrammetry, _The Photogrammetric Record_, 15(85): 65-76, ISBN 0031-868X.
 
