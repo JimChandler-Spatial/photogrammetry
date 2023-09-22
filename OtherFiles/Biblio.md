@@ -39,7 +39,7 @@ Sieberth, T, Wackrow, R, Chandler, JH (2014) Motion Blur Disturbs - The Influenc
 
 Harrison, M and Chandler, JH (2014) Surveyplot- a free web-based application for displaying survey data, _Geomatics World_, 22(6):29-30, ISSN: 1567-5882.
 
-Irvine-Fynn, TDL, Sanz-Ablanedo, E, Rutter, N, Smith, MW, Chandler, JH (2014). Measuring glacier surface roughness using plot-scale, close-range digital photogrammetry, _Journal of Glaciology_, 60(223):957-969, ISSN: 0022-1430. DOI: 10.3189/2014JoG14J032.
+Irvine-Fynn, TDL, Sanz-Ablanedo, E, Rutter, N, Smith, MW, Chandler, JH (2014). [Measuring glacier surface roughness using plot-scale, close-range digital photogrammetry](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/IrvineFinn%2BChandler2014.pdf), _Journal of Glaciology_, 60(223):957-969, ISSN: 0022-1430. DOI: 10.3189/2014JoG14J032.
 
 Montreuil, A.‐L., Bullard, J.E., Chandler, J.H. and Millett, J. (2013). [Decadal and seasonal development of embryo dunes on an accreting macrotidal beach: North Lincolnshire, UK.](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Montreuil%2BBullard%2BChandler2013esp3432.pdf), _Earth Surface Processes and Landforms_, 38: 1851-1868. https://doi.org/10.1002/esp.3432
 
