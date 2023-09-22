@@ -160,7 +160,7 @@ Lane, S., Richards, K.S. and Chandler, J.H., (1993). Developments in photogramme
 
 Chandler, J.H., (1993). Height estimation using video security imagery, _The Photogrammetric Record_, 14(81): 459-468.
 
-Chandler, J.H. and Clark, J.S., (1992). The archival photogrammetric technique: further application and development, _The Photogrammetric Record_, 14(80) : 241-247.
+Chandler, J.H. and Clark, J.S., (1992). [The archival photogrammetric technique: further application and development](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Chandler%2C%20Jim%20H%2C%20Clark%20-%201992%20-%20THE%20ARCHIVAL%20PHOTOGRAMMETRIC%20TECHNIQUE.pdf), _The Photogrammetric Record_, 14(80) : 241-247.
 
 Chandler, J.H. and Cooper, M.A.R., (1991). Determining cylindrical parameters - an alternative approach, _Land and Hydrographic Survey_, September 1991: 5-7.
 
