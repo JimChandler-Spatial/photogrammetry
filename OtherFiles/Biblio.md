@@ -158,7 +158,7 @@ Fryer, J.G., Chandler, J.H. and Cooper, M.A.R., (1994). [On the Accuracy of Heig
 Lane, S.N., Chandler, J.H. and Richards, K.S., (1994). Developments in Monitoring and Modelling Small Scale River Bed Topography, _Earth Surface Processes and Landforms_, 19: 349-368.
 Lane, S., Richards, K.S. and Chandler, J.H., (1993). Developments in photogrammetry; the geomorphological potential, _Progress in Physical Geography_, 17(3): 306-328.
 
-Chandler, J.H., (1993). Height estimation using video security imagery, _The Photogrammetric Record_, 14(81): 459-468.
+Chandler, J.H., (1993). [Height estimation using video security imagery](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Chandler-Height-1993.pdf), _The Photogrammetric Record_, 14(81): 459-468.
 
 Chandler, J.H. and Clark, J.S., (1992). [The archival photogrammetric technique: further application and development](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Chandler%2C%20Jim%20H%2C%20Clark%20-%201992%20-%20THE%20ARCHIVAL%20PHOTOGRAMMETRIC%20TECHNIQUE.pdf), _The Photogrammetric Record_, 14(80) : 241-247.
 
