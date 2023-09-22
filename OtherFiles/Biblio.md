@@ -141,7 +141,7 @@ Chandler, J.H. and Padfield, C.J., (1996). Automated Digital Photogrammetry on a
 
 Lane, S.N., Richards, K.S. and Chandler, J.H., (1996). Discharge and Sediment Supply Controls on Errosion and Deposition in a Dynamic Alluvial Channel, Geomorphology, 15: 1-15, ISSN 0169-555X.
 
-Chandler, J.H., Littleworth, R.M. and Van Havere, W., (1995). 3D Plant Models derived by by Analytical Photogrammetry and Their Use in the Preparation of Area Classification Drawings, Transactions Institution of Chemical Engineers, 73(B): 290-298, ISSN 0957-5820.
+Chandler, J.H., Littleworth, R.M. and Van Havere, W., (1995). [3D Plant Models derived by by Analytical Photogrammetry and Their Use in the Preparation of Area Classification Drawings](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Chandler%2BVanHavere1995-Aclass4.pdf), _Transactions Institution of Chemical Engineers_, 73(B): 290-298, ISSN 0957-5820.
 
 Lane, S.N., Richards, K.S. and Chandler, J.H., (1995). Morphological Estimation of The Time-Integrated Bed-Load Transport Rate, Water Resources Research, 31(3): 761-772.
 
