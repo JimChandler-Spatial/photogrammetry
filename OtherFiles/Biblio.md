@@ -113,7 +113,7 @@ Butler, J.B., Lane, S.N. and Chandler, J.H., (2001). [Automated extraction of gr
 
 Butler, J.B., Lane, S.N. and Chandler, J.H., (2001). Characterization of the Structure of River-Bed gravels using two-dimensional fractal analysis, Mathematical Geology, 333: 301-330, ISBN 0882-8121.
 
-Robins, P.J., Austin, S.A., Chandler, J.H. and Jones, P., (2001). Flexural strain and crack width measurement of steel fibre reinforced concrete by optical grid and electrical gauge methods, Cement and Concrete Research, 31: 719-729, ISSN 008 8846/01.
+Robins, P.J., Austin, S.A., Chandler, J.H. and Jones, P., (2001). [Flexural strain and crack width measurement of steel fibre reinforced concrete by optical grid and electrical gauge methods](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Robins_JC2001.pdf), _Cement and Concrete Research_, 31: 719-729, ISSN 008 8846/01.
 
 Gooch, M.J. and Chandler, J.H., (2001). Failure prediction in automatically generated digital elevation models, Computers and Geosciences, 27(8): 913-920, ISSN 0098 3004/01.
 
