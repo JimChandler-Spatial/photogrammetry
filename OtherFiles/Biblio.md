@@ -81,7 +81,7 @@ Hancock, G.R., Crawter, D., Fityus, S.G., Chandler, J. and Wells, T. (2008), The
 
 K. Shiono, J. Spooner, T. Chan, P. Rameshwaran & J. Chandler, (2008). Flow characteristics in meandering channels with non-mobile bed, Journal of Hydraulic Research, 46:1, 113-132, DOI: 10.1080/00221686.2008.9521848
 
-Wackrow, R. and Chandler, J.H. (2008), A convergent image configuration for DEM extraction that minimises the systematic effects caused by an inaccurate lens model. The Photogrammetric Record, 23: 6-18. https://doi.org/10.1111/j.1477-9730.2008.00467.x.
+Wackrow, R. and Chandler, J.H. (2008), [A convergent image configuration for DEM extraction that minimises the systematic effects caused by an inaccurate lens model](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Wackrow_et_al-2008-The_Photogrammetric_Record.pdf). _The Photogrammetric Record_, 23: 6-18. https://doi.org/10.1111/j.1477-9730.2008.00467.x.
 
 J Fryer, H Mitchell, JH Chandler, (2007). [Applications of 3D measurement from images](https://www.whittlespublishing.com/Applications_of_3D_Measurement_from_Images), Whittles Publishing. pp312.
 
