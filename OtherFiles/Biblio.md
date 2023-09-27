@@ -11,7 +11,7 @@ Parente, L., Chandler, J.H. and Dixon, N. (2021). [Automated Registration of SfM
 
 Sanz‐Ablanedo, E., Chandler, J. H., Ballesteros‐Pérez, P., and Rodríguez‐Pérez, J. R. (2020). Reducing systematic dome errors in digital elevation models through better UAV flight design. _Earth Surface Processes and Landforms_, 45: 2134– 2147. https://doi.org/10.1002/esp.4871.
 
-Parente, L., Chandler, J.H. and Dixon, N. (2019), Optimising the quality of an SfM‐MVS slope monitoring system using fixed cameras. _Photogrammetric Record_, 34: 408-427. https://doi.org/10.1111/phor.12288
+Parente, L., Chandler, J.H. and Dixon, N. (2019), [Optimising the quality of an SfM‐MVS slope monitoring system using fixed cameras.](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Parente_et_al-2019-The_Photogrammetric_Record.pdf), _Photogrammetric Record_, 34: 408-427. https://doi.org/10.1111/phor.12288
 
 James, M. R., Chandler, J. H., Eltner, A., Fraser, C., Miller, P. E., Mills, J. P., Noble, T., Robson, S., and Lane, S. N. (2019) [Guidelines on the use of structure‐from‐motion photogrammetry in geomorphic research.](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/James%2BJC-Guidelines2019.pdf) _Earth Surface Processes and Landforms_, 44: 2081– 2084. https://doi.org/10.1002/esp.4637.
 
