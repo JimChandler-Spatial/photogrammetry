@@ -135,7 +135,7 @@ Butler, J.B., Lane, S.N. and Chandler, J.H., (1998). [Assessment of DEM quality 
 
 Lane, S.N., Biron, P.M., Bradbrook, K.F., Butler, J.B., Chandler, J.H., Crowell, M.D., McLelland, S.J., Richards, K.S. and Roy, A.G., (1998). Integrated three-dimensional measurements of river channel topography and flow process using acoustic doppler velocimetry, Earth Surface Processes and Landforms, 23: 1247-1267, ISBN 0197 9337.
 
-Pyle, C.J., Richards, K.S. and Chandler, J.H., (1997). Digital Photogrammetric Monitoring of River Bank Erosion, _The Photogrammetric Record_, 15(89): 753-763, ISSN 0031-868X.
+Pyle, C.J., Richards, K.S. and Chandler, J.H., (1997). [Digital Photogrammetric Monitoring of River Bank Erosion](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Pyle_et_al-1997-The_Photogrammetric_Record.pdf), _The Photogrammetric Record_, 15(89): 753-763, ISSN 0031-868X.
 
 Chandler, J.H. and Padfield, C.J., (1996). [Automated Digital Photogrammetry on a Shoestring](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Chandler_et_al-1996-The_Photogrammetric_Record.pdf), _The Photogrammetric Record_, 15(88): 545-559.
 
