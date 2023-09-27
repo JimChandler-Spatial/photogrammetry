@@ -155,7 +155,7 @@ Lane, S.N., Richards, K.S. and Chandler, J.H., (1994). Applications of Distribut
 
 Fryer, J.G., Chandler, J.H. and Cooper, M.A.R., (1994). [On the Accuracy of Heighting from Aerial Photographs and Maps:  Implications to Process Modellers](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Fryer%2BChandler%2BCooper1994.pdf), _Earth Surface Processes and Landforms_, 19: 577-583, ISSN 0197-9337.
 
-Lane, S.N., Chandler, J.H. and Richards, K.S., (1993). Developments in Monitoring and Modelling Small Scale River Bed Topography, _Earth Surface Processes and Landforms_, 19: 349-368.
+Lane, S.N., Chandler, J.H. and Richards, K.S., (1994). Developments in Monitoring and Modelling Small Scale River Bed Topography, _Earth Surface Processes and Landforms_, 19: 349-368.
 
 Lane, S., Richards, K.S. and Chandler, J.H., (1993). [Developments in photogrammetry; the geomorphological potential](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Lane%2BJC-1993.pdf), _Progress in Physical Geography_, 17(3): 306-328.
 
