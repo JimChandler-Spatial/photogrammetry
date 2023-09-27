@@ -85,7 +85,7 @@ Wackrow, R. and Chandler, J.H. (2008), A convergent image configuration for DEM 
 
 J Fryer, H Mitchell, JH Chandler, (2007). [Applications of 3D measurement from images](https://www.whittlespublishing.com/Applications_of_3D_Measurement_from_Images), Whittles Publishing. pp312.
 
-Wackrow, R., Chandler, J.H. and Bryan, P. (2007), Geometric consistency and stability of consumer‐grade digital cameras for accurate spatial measurement. _The Photogrammetric Record_, 22: 121-134. https://doi.org/10.1111/j.1477-9730.2007.00436.x
+Wackrow, R., Chandler, J.H. and Bryan, P. (2007), [Geometric consistency and stability of consumer‐grade digital cameras for accurate spatial measurement](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Wackrow%2C%20Chandler%2C%20Bryan%20-%202007%20-%20CONSUMER-GRADE%20DIGITAL%20CAMERAS%20FOR%20ACCURATE%20SPATIAL%20MEASUREMENT.pdf). _The Photogrammetric Record_, 22: 121-134. https://doi.org/10.1111/j.1477-9730.2007.00436.x
 
 Chandler, J.H., Bryan, P. and Fryer, J.G. (2007), [The Development And Application of a Simple Methodology for Recording Rock Art Using Consumer‐Grade Digital Cameras.](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Chandler%2C%20Bryan%20-%202007%20-%20THE%20DEVELOPMENT%20AND%20APPLICATION%20OF%20A%20SIMPLE%20METHODOLOGY%20FOR%20RECORDING%20ROCK%20ART%20USING%20CONSUMER-GRADE%20DIGITAL%20CAM.pdf) _The Photogrammetric Record_, 22: 10-21. https://doi.org/10.1111/j.1477-9730.2007.00414.x
 
