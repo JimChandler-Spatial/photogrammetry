@@ -25,7 +25,7 @@ Sieberth, T., Wackrow, R. & Chandler, JH. (2016). Automatic detection of blurred
 
 Chandler, J.H., and Buckley, S. (2016). [Structure from motion (SFM) photogrammetry vs terrestrial laser scanning](https://jimchandler-spatial.github.io/photogrammetry/OtherFiles/paper_pdfs/AGI_SfM-v-TLS(3).pdf), _The Geoscience Handbook 2016_, http://rock.geosociety.org/Store/detail.aspx?id=DATASHEETS.
 
-McCarthy, D.M.J., Chandler, J.H. & Palmeri, A. (2016). Monitoring 3D Vibrations in Structures using High-resolution Blurred Imagery. _The Photogrammetric Record_, 31(155):304–324. Available at: http://doi.wiley.com/10.1111/phor.12155.
+McCarthy, D.M.J., Chandler, J.H. & Palmeri, A. (2016). [Monitoring 3D Vibrations in Structures using High-resolution Blurred Imagery.](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/McCarthy_et_al-2016-The_Photogrammetric_Record.pdf), _The Photogrammetric Record_, 31(155):304–324. Available at: http://doi.wiley.com/10.1111/phor.12155.
 
 Wackrow, R, Ferreira, E, Chandler, JH, Shiono, K. (2015). Camera calibration for water-biota research: the projected area of vegetation, _Sensors_, 15(12),:30261-30269, ISSN: 1424-8239. DOI: 10.3390/s151229798.
 
