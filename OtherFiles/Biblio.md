@@ -35,7 +35,7 @@ Micheletti, N, Chandler, JH, Lane, SN (2015) [Investigating the geomorphological
 
 Micheletti, N, Chandler, JH, Lane, S (2015) [Structure from motion (SFM) photogrammetry](https://jimchandler-spatial.github.io/photogrammetry/OtherFiles/paper_pdfs/Micheletti_et_al_SfM_GeomTech.pdf), _British Society for Geomorphology, Special Techniques_ ISSN: 2047-0371.
 
-Sieberth, T, Wackrow, R, Chandler, JH (2014) Motion Blur Disturbs - The Influence Of Motion-Blurred Images in Photogrammetry, _Photogrammetric Record_, 29(148),:434-453, ISSN: 0031-868X. DOI:10.1111/phor.12082.
+Sieberth, T, Wackrow, R, Chandler, JH (2014) [Motion Blur Disturbs - The Influence Of Motion-Blurred Images in Photogrammetry](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Sieberth%2BJC2014.pdf), _Photogrammetric Record_, 29(148),:434-453, ISSN: 0031-868X. DOI:10.1111/phor.12082.
 
 Harrison, M and Chandler, JH (2014) [Surveyplot- a free web-based application for displaying survey data](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/MattHarrison-GoogleEarthPlotting2014.pdf), _Geomatics World_, 22(6):29-30, ISSN: 1567-5882.
 
