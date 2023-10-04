@@ -57,13 +57,13 @@ Gunawan and X. Sun and M. Sterling and K. Shiono and R. Tsubaki and P. Rameshwar
 
 Wackrow, R. and Chandler, J.H. (2011). Minimising systematic error surfaces in digital elevation models using oblique convergent imagery. _The Photogrammetric Record_, 26: 16-31. https://doi.org/10.1111/j.1477-9730.2011.00623.x
 
-Walstra, J., Chandler, J.H., Dixon, N. and Wackrow, R. (2011). [Evaluation of the controls affecting the quality of spatial data derived from historical aerial photographs](https://jimchandler-spatial.github.io/photogrammetry/OtherFiles/paper_pdfs/ESPL_Walstra2011.pdf). _Earth Surface Processes and Landforms_, 36: 853-863. https://doi.org/10.1002/esp.2111
-
 Heng, B. C. P., Sander, G. C., Armstrong, A., Quinton, J. N., Chandler, J. H., and Scott, C. F. (2011). Modeling the dynamics of soil erosion and size‐selective sediment transport over nonuniform topography in flume‐scale experiments, _Water Resources Research_, 47, W02513, https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2010WR009375
 
 Armstrong, A., Quinton, J.N., Heng, B.C.P. and Chandler, J.H. (2011), Variability of interrill erosion at low slopes. _Earth Surface Processes and Landforms_, 36: 97-106. https://doi.org/10.1002/esp.2024
 
 Xin Sun, Koji Shiono, Ponnambalam Rameshwaran & Jim H. Chandler (2010) Modelling vegetation effects in irregular meandering river, _Journal of Hydraulic Research_, 48:6, 775-783, DOI: 10.1080/00221686.2010.531101
+
+Walstra, J., Chandler, J.H., Dixon, N. and Wackrow, R. (2010). [Evaluation of the controls affecting the quality of spatial data derived from historical aerial photographs](https://jimchandler-spatial.github.io/photogrammetry/OtherFiles/paper_pdfs/ESPL_Walstra2011.pdf). _Earth Surface Processes and Landforms_, 36: 853-863. https://doi.org/10.1002/esp.2111
 
 Shiono, L., Spooner, J., Chan, T., Rameshwaren, P. and Chandler, J.H. (2010). Flow characteristics in meandering channels with non-mobile and mobile beds for overbank flows, _Journal of Hydraulic Research_, 46(1): 113-132. https://doi.org/10.1080/00221686.2008.9521848
 
