@@ -165,7 +165,7 @@ Chandler, J.H. and Clark, J.S., (1992). [The archival photogrammetric technique:
 
 Chandler, J.H. and Cooper, M.A.R., (1991). Determining cylindrical parameters - an alternative approach, _Land and Hydrographic Survey_, September 1991: 5-7.
 
-Chandler, J.H., Cooper, M.A.R. and Robson, S., (1990). Analytical aspects of small format surveys using oblique aerial surveys, _Journal of Photographic Science_, 37: 235-240.
+Chandler, J.H., Cooper, M.A.R. and Robson, S., (1990). [Analytical aspects of small format surveys using oblique aerial surveys](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Chandler%2BCooper%2BRobson-1989.pdf), _Journal of Photographic Science_, 37: 235-240.
 
 Chandler, J.H. and Moore, R., (1989). [Analytical photogrammetry: a method for monitoring slope instability](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Chandler%2BMoore_1989.pdf), _Quarterly Journal Engineering Geology_, 22 : 97-110.
 
