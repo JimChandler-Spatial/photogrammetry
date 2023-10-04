@@ -77,8 +77,6 @@ Smith, M.J., Chandler, J. and Rose, J. (2009), [High spatial resolution data acq
 
 S. Shair, J. H. Chandler, V. J. GonzÁlez-Villela, R. M. Parkin and M. R. Jackson, (2008). The Use of Aerial Images and GPS for Mobile Robot Waypoint Navigation, IEEE/ASME Transactions on Mechatronics, 13(6): 692-699. doi: 10.1109/TMECH.2008.2005197.
 
-Hancock, G.R., Crawter, D., Fityus, S.G., Chandler, J. and Wells, T. (2008), The measurement and modelling of rill erosion at angle of repose slopes in mine spoil. Earth Surf. Process. Landforms, 33: 1006-1020. https://doi.org/10.1002/esp.1585.
-
 K. Shiono, J. Spooner, T. Chan, P. Rameshwaran & J. Chandler, (2008). Flow characteristics in meandering channels with non-mobile bed, Journal of Hydraulic Research, 46:1, 113-132, DOI: 10.1080/00221686.2008.9521848
 
 Wackrow, R. and Chandler, J.H. (2008), [A convergent image configuration for DEM extraction that minimises the systematic effects caused by an inaccurate lens model](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Wackrow_et_al-2008-The_Photogrammetric_Record.pdf). _The Photogrammetric Record_, 23: 6-18. https://doi.org/10.1111/j.1477-9730.2008.00467.x.
@@ -92,6 +90,8 @@ Chandler, J.H., Bryan, P. and Fryer, J.G. (2007), [The Development And Applicati
 Walstra, J; Chandler, JH; Dixon, N; Dijkstra, TA, (2007). Aerial photography and digital photogrammetry for landslide monitoring, In: MAPPING HAZARDOUS TERRAIN USING REMOTE SENSING, Ed: Teeuw, RM. Geological Society Special Publication, 283: 53-6. DOI: 10.1144/SP283.5.
 
 J. Walstra, N. Dixon, J.H. Chandler; (2007). [Historical aerial photographs for landslide assessment: two case histories](https://jimchandler-spatial.github.io/photogrammetry/OtherFiles/paper_pdfs/JanQJEG.pdf). _Quarterly Journal of Engineering Geology and Hydrogeology_; 40(4): 315–332. doi: https://doi.org/10.1144/1470-9236/07-011.
+
+Hancock, G.R., Crawter, D., Fityus, S.G., Chandler, J. and Wells, T. (2007), The measurement and modelling of rill erosion at angle of repose slopes in mine spoil. Earth Surf. Process. Landforms, 33: 1006-1020. https://doi.org/10.1002/esp.1585.
 
 Chandler, J.H., Fryer, J.G. and Kniest, H.T., (2005). [Non-invasive 3D recording of aboriginal rock art using cost effective digital photogrammetry](https://jimchandler-spatial.github.io/photogrammetry/OtherFiles/paper_pdfs/PaperNon-invasive3DChandler-Fryer-Kniest.pdf), _Rock Art Research_, 22(2), 2005: 119-130.
 
