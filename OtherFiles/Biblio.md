@@ -115,7 +115,7 @@ Butler, J.B., Lane, S.N. and Chandler, J.H., (2001). Characterization of the Str
 
 Robins, P.J., Austin, S.A., Chandler, J.H. and Jones, P., (2001). [Flexural strain and crack width measurement of steel fibre reinforced concrete by optical grid and electrical gauge methods](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Robins_JC2001.pdf), _Cement and Concrete Research_, 31: 719-729, ISSN 008 8846/01.
 
-Gooch, M.J. and Chandler, J.H., (2001). Failure prediction in automatically generated digital elevation models, Computers and Geosciences, 27(8): 913-920, ISSN 0098 3004/01.
+Gooch, M.J. and Chandler, J.H., (2001). [Failure prediction in automatically generated digital elevation models](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Gooch%2BChandler-1999.pdf), _Computers and Geosciences_, 27(8): 913-920, ISSN 0098 3004/01.
 
 Chandler, J.H., Shiono, K., Rameshwaren, P. and Lane, S.N., (2001). Measuring flume surfaces for hydraulics research using a Kodak DCS460, _The Photogrammetric Record_, 17(97): 39-61, ISBN 0031 868X.
 
