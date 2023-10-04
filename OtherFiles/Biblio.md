@@ -127,7 +127,7 @@ Chandler, J.H., (1999). [Effective application of automated digital photogrammet
 
 Ahmad, A. and Chandler, J.H., (1999). Photogrammetric capabilities of the Kodak DC40, DCS420 and DCS460 Digital Cameras, _The Photogrammetric Record_, 16(94): 601-615, ISSN 0031-868X.
 
-Gooch, M.J., Chandler, J.H. and Stojic, M., (1999). Accuracy assessment of digital elevation models generated using the Erdas Imagine Orthomax digital photogrammetric system, _The Photogrammetric Record_, 16(93): 519-531, ISSN 0031 - 858 X.
+Gooch, M.J., Chandler, J.H. and Stojic, M., (1999). [Accuracy assessment of digital elevation models generated using the Erdas Imagine Orthomax digital photogrammetric system](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Gooch%2BChandler-1999.pdf), _The Photogrammetric Record_, 16(93): 519-531, ISSN 0031 - 858 X.
 
 Stojic, M., Chandler, J.H., Ashmore, P. and Luce, J., (1998). [The Assessment of Sediment Transport Rates by Automated Digital Photogrammetry](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/The_assessment_of_sediment_transport_rates_by_auto.pdf), _Photogrammetric Engineering and Remote Sensing_, 645: 387-395, ISSN 0099-1112.
 
