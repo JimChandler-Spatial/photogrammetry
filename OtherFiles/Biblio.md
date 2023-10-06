@@ -163,7 +163,7 @@ Chandler, J.H., (1993). [Height estimation using video security imagery](https:/
 
 Chandler, J.H. and Clark, J.S., (1992). [The archival photogrammetric technique: further application and development](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Chandler%2C%20Jim%20H%2C%20Clark%20-%201992%20-%20THE%20ARCHIVAL%20PHOTOGRAMMETRIC%20TECHNIQUE.pdf), _The Photogrammetric Record_, 14(80) : 241-247.
 
-Chandler, J.H. and Cooper, M.A.R., (1991). Determining cylindrical parameters - an alternative approach, _Land and Hydrographic Survey_, September 1991: 5-7.
+Chandler, J.H. and Cooper, M.A.R., (1991). [Determining cylindrical parameters - an alternative approach](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Cylindrical-1991.pdf), _Land and Hydrographic Survey_, September 1991: 5-7.
 
 Chandler, J.H., Cooper, M.A.R. and Robson, S., (1990). [Analytical aspects of small format surveys using oblique aerial surveys](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Chandler%2BCooper%2BRobson-1989.pdf), _Journal of Photographic Science_, 37: 235-240.
 
