@@ -99,7 +99,7 @@ Chandler, J.H., Fryer, J.G. and Jack, A., (2005). [Metric capabilities of low-co
 
 Lane, S.N. and Chandler, J.H., (2003), The Generation of high quality topographic data for hydrology and geomorphology: New data sources, new applications and new problems, _Earth Surface Processes and Landforms_, 28(3), 2003: 229-230, ISSN: 0197-9337.
 
-Buffin-Belanger, T., Reid, I., Rice, S., Chandler, J.H. and Lancaster, J., (2003). A casting procedure for reproducing coarse-grained sedimentary surfaces, _Earth Surface Processes and Landforms_, 28: 787-796, ISSN 0197 9337.
+Buffin-Belanger, T., Reid, I., Rice, S., Chandler, J.H. and Lancaster, J., (2003). [A casting procedure for reproducing coarse-grained sedimentary surfaces](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Belanger%2BRice%2BChandler-2003.pdf), _Earth Surface Processes and Landforms_, 28: 787-796, ISSN 0197 9337.
 
 Chandler, J.H., Buffin-Belanger, T., Rice, S.P., Reid, I. and Graham, D.J., (2003). [The accuracy of a river bed moulding/casting system and the effectiveness of a low-cost digital camera for recording river bed fabric](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/The_accuracy_of_a_river_bed_casting_system_and_the.pdf), _The Photogrammetric Record_, 18: 209-223, ISSN 0031 868X.
 
