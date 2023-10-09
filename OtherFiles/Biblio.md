@@ -91,7 +91,7 @@ Walstra, J; Chandler, JH; Dixon, N; Dijkstra, TA, (2007). Aerial photography and
 
 J. Walstra, N. Dixon, J.H. Chandler; (2007). [Historical aerial photographs for landslide assessment: two case histories](https://jimchandler-spatial.github.io/photogrammetry/OtherFiles/paper_pdfs/JanQJEG.pdf). _Quarterly Journal of Engineering Geology and Hydrogeology_; 40(4): 315–332. doi: https://doi.org/10.1144/1470-9236/07-011.
 
-Hancock, G.R., Crawter, D., Fityus, S.G., Chandler, J. and Wells, T. (2007), The measurement and modelling of rill erosion at angle of repose slopes in mine spoil. Earth Surf. Process. Landforms, 33: 1006-1020. https://doi.org/10.1002/esp.1585.
+Hancock, G.R., Crawter, D., Fityus, S.G., Chandler, J. and Wells, T. (2007), [The measurement and modelling of rill erosion at angle of repose slopes in mine spoil](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Hancock%2BChandler2007.pdf). _Earth Surf. Process. Landforms_, 33: 1006-1020. https://doi.org/10.1002/esp.1585.
 
 Chandler, J.H., Fryer, J.G. and Kniest, H.T., (2005). [Non-invasive 3D recording of aboriginal rock art using cost effective digital photogrammetry](https://jimchandler-spatial.github.io/photogrammetry/OtherFiles/paper_pdfs/PaperNon-invasive3DChandler-Fryer-Kniest.pdf), _Rock Art Research_, 22(2), 2005: 119-130.
 
