@@ -147,7 +147,7 @@ Lane, S.N., Richards, K.S. and Chandler, J.H., (1995). Morphological Estimation 
 
 Chandler, J.H. and Brunsden, D., (1995). [Steady State Behaviour of the Black Ven Mudslide: The Application of Archical Analytical Photogrammetry to Studies of Landform Change](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Chandler%2BBrunsden1995-Earth_Surface_Processes_and_Landforms.pdf), _Earth Surface Processes and Landforms_, 20: 255-275, ISBN 0197-9337.
 
-Littleworth, R.M. and Chandler, J.H., (1995). 3-D Computer Graphic Models by Analytical Photogrammetry, _The Photogrammetric Record_, 15(85): 65-76, ISBN 0031-868X.
+Littleworth, R.M. and Chandler, J.H., (1995). [3-D Computer Graphic Models by Analytical Photogrammetry](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Three-Dimensional%20Mapping%20and%20As-Built%20Computer%20Modelling%20by%20Analytical%20Photogrammetry.pdf), _The Photogrammetric Record_, 15(85): 65-76, ISBN 0031-868X.
 
 Richards, K., Arnold, N., Lane, S., Chandra, S., El-Hames, A., Mattikalli, N. and Chandler, J.H., (1995). Numerical Landscapes:  Static, Kinematic and Dynamic Process-Form Relationships, _Zeitschrift fur Geomorphologie_, 101: 201-220, ISSN 0044-2798.
 
