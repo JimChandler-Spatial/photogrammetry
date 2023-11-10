@@ -75,9 +75,9 @@ K. Shiono, Tony L. Chan, Jake Spooner, P. Rameshwaran & J. H. Chandler (2010). [
 
 Smith, M.J., Chandler, J. and Rose, J. (2009), [High spatial resolution data acquisition for the geosciences: kite aerial photography](https://jimchandler-spatial.github.io/photogrammetry/OtherFiles/paper_pdfs/Smith_ESPL_repos.pdf). _Earth Surface Processes and Landforms_, 34: 155-161. https://doi.org/10.1002/esp.1702
 
-S. Shair, J. H. Chandler, V. J. GonzÁlez-Villela, R. M. Parkin and M. R. Jackson, (2008). The Use of Aerial Images and GPS for Mobile Robot Waypoint Navigation, IEEE/ASME Transactions on Mechatronics, 13(6): 692-699. doi: 10.1109/TMECH.2008.2005197.
+S. Shair, J. H. Chandler, V. J. GonzÁlez-Villela, R. M. Parkin and M. R. Jackson, (2008). The Use of Aerial Images and GPS for Mobile Robot Waypoint Navigation, _IEEE/ASME Transactions on Mechatronics_, 13(6): 692-699. doi: 10.1109/TMECH.2008.2005197.
 
-K. Shiono, J. Spooner, T. Chan, P. Rameshwaran & J. Chandler, (2008). Flow characteristics in meandering channels with non-mobile bed, Journal of Hydraulic Research, 46:1, 113-132, DOI: 10.1080/00221686.2008.9521848
+K. Shiono, J. Spooner, T. Chan, P. Rameshwaran & J. Chandler, (2008). Flow characteristics in meandering channels with non-mobile bed, _Journal of Hydraulic Research_, 46:1, 113-132, DOI: 10.1080/00221686.2008.9521848
 
 Wackrow, R. and Chandler, J.H. (2008), [A convergent image configuration for DEM extraction that minimises the systematic effects caused by an inaccurate lens model](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Wackrow_et_al-2008-The_Photogrammetric_Record.pdf). _The Photogrammetric Record_, 23: 6-18. https://doi.org/10.1111/j.1477-9730.2008.00467.x.
 
@@ -111,7 +111,7 @@ Adams, J.C. and Chandler, J.H., (2002). [Evaluation of LIDAR and medium scale ph
 
 Butler, J.B., Lane, S.N. and Chandler, J.H., (2001). [Automated extraction of grain-size data from gravel surfaces using digital image processing for hydraulic research](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Butler%2C%20Lane%2C%20Chandler2001-GrainSize.pdf), _Journal of Hydraulic Research_, 391:1-11.
 
-Butler, J.B., Lane, S.N. and Chandler, J.H., (2001). Characterization of the Structure of River-Bed gravels using two-dimensional fractal analysis, Mathematical Geology, 333: 301-330, ISBN 0882-8121.
+Butler, J.B., Lane, S.N. and Chandler, J.H., (2001). Characterization of the Structure of River-Bed gravels using two-dimensional fractal analysis, _Mathematical Geology_, 333: 301-330, ISBN 0882-8121.
 
 Robins, P.J., Austin, S.A., Chandler, J.H. and Jones, P., (2001). [Flexural strain and crack width measurement of steel fibre reinforced concrete by optical grid and electrical gauge methods](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Robins_JC2001.pdf), _Cement and Concrete Research_, 31: 719-729, ISSN 008 8846/01.
 
@@ -121,7 +121,7 @@ Chandler, J.H., Shiono, K., Rameshwaren, P. and Lane, S.N., (2001). Measuring fl
 
 Lane, S.N., Chandler, J.H. and Porfiri, K., (2001). [Monitoring river channel and flume surfaces with digital photogrammetry](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Lane%2BChandler%2BPorfiri2001.pdf), _Journal of Hydraulic Engineering_, 127(10):871-877, ISBN0733-9429.
 
-Chandler, J.H., (2000). What is ISI and why is it important?, Survey Review, 35(277): 505-508, ISSN 0039 6265.
+Chandler, J.H., (2000). What is ISI and why is it important?, _Survey Review_, 35(277): 505-508, ISSN 0039 6265.
 
 Chandler, J.H., (1999). [Effective application of automated digital photogrammetry for geomorphological research](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Effective_application_of_automated_digital_photogr.pdf), _Earth Surface Processes and Landforms_, 24: 51-63, ISSN 01979337.
 
