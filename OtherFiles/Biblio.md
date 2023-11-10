@@ -89,7 +89,7 @@ Chandler, J.H., Bryan, P. and Fryer, J.G. (2007), [The Development And Applicati
 
 Walstra, J; Chandler, JH; Dixon, N; Dijkstra, TA, (2007). [Aerial photography and digital photogrammetry for landslide monitoring](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Walstra%2BChandler2007.pdf), In: MAPPING HAZARDOUS TERRAIN USING REMOTE SENSING, Ed: Teeuw, RM. Geological Society Special Publication, 283: 53-6. DOI: 10.1144/SP283.5.
 
-J. Walstra, N. Dixon, J.H. Chandler; (2007). [Historical aerial photographs for landslide assessment: two case histories](https://jimchandler-spatial.github.io/photogrammetry/OtherFiles/paper_pdfs/JanQJEG.pdf). _Quarterly Journal of Engineering Geology and Hydrogeology_; 40(4): 315–332. doi: https://doi.org/10.1144/1470-9236/07-011.
+J. Walstra, N. Dixon, J.H. Chandler; (2007). [Historical aerial photographs for landslide assessment: two case histories](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/JanQJEG.pdf). _Quarterly Journal of Engineering Geology and Hydrogeology_; 40(4): 315–332. doi: https://doi.org/10.1144/1470-9236/07-011.
 
 Hancock, G.R., Crawter, D., Fityus, S.G., Chandler, J. and Wells, T. (2007), [The measurement and modelling of rill erosion at angle of repose slopes in mine spoil](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Hancock%2BChandler2007.pdf). _Earth Surf. Process. Landforms_, 33: 1006-1020. https://doi.org/10.1002/esp.1585.
 
