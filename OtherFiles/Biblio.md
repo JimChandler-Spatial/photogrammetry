@@ -41,6 +41,9 @@ Harrison, M and Chandler, JH (2014) [Surveyplot- a free web-based application fo
 
 Irvine-Fynn, TDL, Sanz-Ablanedo, E, Rutter, N, Smith, MW, Chandler, JH (2014). [Measuring glacier surface roughness using plot-scale, close-range digital photogrammetry](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/IrvineFinn%2BChandler2014.pdf), _Journal of Glaciology_, 60(223):957-969, ISSN: 0022-1430. DOI: 10.3189/2014JoG14J032.
 
+Shiono, K, Ferreira, E, Chandler, JH, Wackrow, R, Ishigaki, T (2014). Measurements of drag force of cylindrical rods and trees in a river
+_River Flow 2014_, 535-542.
+
 Montreuil, A.‐L., Bullard, J.E., Chandler, J.H. and Millett, J. (2013). [Decadal and seasonal development of embryo dunes on an accreting macrotidal beach: North Lincolnshire, UK.](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/paper_pdfs/Montreuil%2BBullard%2BChandler2013esp3432.pdf), _Earth Surface Processes and Landforms_, 38: 1851-1868. https://doi.org/10.1002/esp.3432
 
 Montreuil, A-L., Bullard, J.E., Chandler, J.H., (2013). Detecting seasonal variations in embryo dune morphology using a terrestrial laser scanner. _Journal of Coastal Research_, 65(sp2):1313-1318 (2013). https://doi.org/10.2112/SI65-222.1
