@@ -2,7 +2,7 @@
 
 Prof. J.H. Chandler, BSc [PhD](https://github.com/JimChandler-Spatial/photogrammetry/blob/gh-pages/OtherFiles/JC_thesis_col.pdf) FRICS SFHEA,
 Former Professor of Geomatics, Loughborough University, UK.  
-(Email: [JimChandler.Spatial@virginmedia.com](mailto: JimChandler.Spatial@virginmedia.com)]
+(Email: [JimChandler.Spatial@protonmail.com](mailto: JimChandler.Spatial@protonmail.com)]
 
 Primary aim of my research was to develop and exploit modern geomatics methods and digital photogrammetry, particularly in the earth sciences and heritage recording and using close range and oblique aerial/quadcopter imagery.
 
@@ -21,4 +21,4 @@ Primary aim of my research was to develop and exploit modern geomatics methods a
 
 
 
-_Updated: April, 2023_
+_Updated: November, 2026_
